@@ -12,7 +12,7 @@
 ## Summary
 For these challenges you will want to read the chapters and actually do what he says even though much of it will probably be review from your pre-interview prep work. It's good to get it in your fingers and get used to typing these commands and strange symbols.
 
-In this challenge you will go through basic mathematical operations,
+In this challenge you will go through basic mathematical operations.
 
 ## Releases
 
@@ -47,19 +47,13 @@ Pay close attention, but you won't need to do any exercises based on this chapte
 ## Release 4: Read Ch. 4 Variables and Assignment
 Again, follow along and take a few notes (if you're that type of person) on variable assignment.
 
-## Release 5: Exercises
-Complete the following exercises on Socrates. We recommend writing the code in Sublime and testing it out on Socrates. Sometimes Socrates will time out and you will lose your code.
+## Release 5: Mini-challenges
+Navigate to the following directories within this folder. Each has a README with instructions for how to do the challenge, a my_solution.rb file where you should put your work, and a spec file with tests to run.
 
-- [Defining Variables #1](https://socrates.devbootcamp.com/exercises/1)
-- [Simple String Methods](https://socrates.devbootcamp.com/exercises/2)
-- [Local Variables and Basic Arithmetical Operations](https://socrates.devbootcamp.com/exercises/3)
+- [Defining Variables #1](1-defining-variables)
+- [Simple String Methods](2-simple-string-methods)
+- [Local Variables and Basic Arithmetical Operations](3-local-variables)
 
-Socrates won't allow an assignment to be complete until it passes some tests. If you have any red messages appear, those are the tests you will want to read and fix in your code.
 
 ## Release 6: Reflect
 Using the [Reflection Guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md), reflect on what you learned. Write your response in the "Reflection" section of your my_solution.md file.
-
-## Release 7: Review
-Once you've solved the solutions, you can view others solutions by clicking on the exercise. There will be a "solutions" tab directly above the exercise name. Click on that tab to view the other solutions. Were any different (in terms of code as opposed to content)? How were they different?
-
-The more code you read the easier it will be to learn how to refactor and get into code, so it's good practice to start now.
