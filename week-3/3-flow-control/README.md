@@ -12,7 +12,7 @@ Up to this point, you've had some pretty basic programs. You put something in; i
 
 ## Releases
 
-## Release 0: Read Ch. 6: Flow Control
+## Release 0: Read Ch. 7: Flow Control
 Read through this chapter. Pine wrote some good exercises here that definitely get a bit more tricky. You can choose to do them as bonus. As you can see, we've also decided to use one of them as well.
 
 ## Release 1: Challenges
