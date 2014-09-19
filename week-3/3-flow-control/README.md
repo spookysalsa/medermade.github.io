@@ -6,7 +6,6 @@
 - Compare two objects
 - Use conditionals (if, elsif, and else)
 
-
 ## Summary
 Up to this point, you've had some pretty basic programs. You put something in; it spits something out. Now is your time to train your computer how to "think." You will be able to tell it to do something if something is true, and something different if something is false. This is called "flow control."
 
