@@ -4,7 +4,7 @@
 
 
 ## Learning Competencies
-- Add, subtract, multiply, and divide numbers in Ruby
+- Add, subtract, multiply, and divide numbers
 - Compare integers and floats
 - Identify and use strings
 - Define local variables

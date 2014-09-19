@@ -4,9 +4,11 @@
 
 
 ## Learning Competencies
-
+- Define local variables and methods
+- Run a ruby program from the command line
 
 ## Summary
+Now's your chance to put what you've learned together!
 
 ## Releases
 

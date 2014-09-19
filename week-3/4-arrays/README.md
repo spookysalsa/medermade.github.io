@@ -4,7 +4,9 @@
 
 
 ## Learning Competencies
-
+- Create and iterate over arrays
+- Create a hash
+- Apply array methods
 
 ## Summary
 So far you've used variables to store information, but what happens if you have a lot of information to store? Say you want to have a list of your favorite bands, and you are a bit of a music lover so there are hundreds of them. You wouldn't want to have to assign them like so:
