@@ -73,3 +73,4 @@ Now you'll want to expand your brain a bit by working on the following challenge
 - [Defining Math Methods](6-math-methods)
 
 ## Release 5: Reflect
+In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
