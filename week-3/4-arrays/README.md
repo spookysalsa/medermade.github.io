@@ -34,4 +34,16 @@ It will be useful for you to start looking at the [ruby documentation for arrays
 [Count the numbers in an array between a given range](17-count-between)
 
 
-## Release 2: Reflect
+## Release 2: Hashes
+Pine doesn't do justice to hashes in his book, unfortunately, but they are also incredibly important to your understandings of ruby.
+
+Check out a couple of the following resources to get an introduction:
+- Pine's section 12.3
+- [Codecademy: Hashes](http://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb) Move to the "Hash" section.
+- Well-Grounded Rubyist ch. 9.3 (in either edition)
+
+Then complete the following challenge:
+[Define a Hash](18-define-hash)
+
+## Release 3: Reflection
+In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
