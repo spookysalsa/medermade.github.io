@@ -21,7 +21,7 @@ Note: This week's might be a little long if you watch the whole video, so watch 
 
 
 ## Release 1: Kitchen vs. Table
-Watch [Shereef's Fireside Chat](http://vimeo.com/85001014). This chat is over an hour long, so watch the parts your interested in and make sure to leave time for writing your blog!
+Watch [Shereef's Fireside Chat](http://vimeo.com/85001014). This chat is over an hour long, so watch the parts you're interested in and make sure to leave time for writing your blog!
 
 ## Release 2: Write
 
