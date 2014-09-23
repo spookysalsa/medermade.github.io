@@ -22,8 +22,8 @@ for others it may not. Both are O.K. Read the following resources below to get b
 
 - [6 Phases of the Web Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.UxuuUuddUtU)
 - [Design is about solving problems](http://www.smashingmagazine.com/2011/08/24/design-solving-problems/)
-- [What is User Experience Design?](http://uxdesign.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
-- [Design for performance](https://speakerdeck.com/lara/design-for-performance)
+- [What is User Experience Design?](http://www.uxdesign.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
+- [Design for performance](https://www.speakerdeck.com/lara/design-for-performance)
 
 ## Release 1: Information Gathering
 The first step in creating a website is defining its purpose and target audience. You must know your site's goals and end users before you can think about its layout or design.
@@ -52,7 +52,7 @@ Site maps should be reflections of your site. So if you have a simple site with 
 
 ![site map](../imgs/sitemap.png)
 
-Now you'll create a site map for your site! You can draw the map, though you are also welcome to use tools such as Adobe Photoshop, [http://writemaps.com](WriteMaps), or [http://slickplan.com](Slickplan).
+Now you'll create a site map for your site! You can draw the map, though you are also welcome to use tools such as Adobe Photoshop, [http://www.writemaps.com](WriteMaps), or [http://www.slickplan.com](Slickplan).
 
 For now, your site map will probably be really simple -- maybe an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website.
 
@@ -71,6 +71,6 @@ Use the command line for each step below:
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge using sublime. Commit your changes and push them to GitHub.
 
 ## Additional Resources:
-- [http://cognition.happycog.com/article/why-developers-need-to-learn-design](Why Developers Need to Learn Design)
-- [http://webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277](Planning a Design Project)
-- [http://bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project](Planning and Scheming: How We Start a Web Design Project)
+- [http://www.cognition.happycog.com/article/why-developers-need-to-learn-design](Why Developers Need to Learn Design)
+- [http://www.webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277](Planning a Design Project)
+- [http://www.bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project](Planning and Scheming: How We Start a Web Design Project)
