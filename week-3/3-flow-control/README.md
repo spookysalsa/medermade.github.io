@@ -17,10 +17,10 @@ Read through this chapter. Pine wrote some good exercises here that definitely g
 ## Release 1: Challenges
 Now you get to demonstrate your understanding of these concepts by working on some challenges that require flow control. They might take you outside of your comfort zone, and that's ok. You should also feel free to pair on these. Pairing is an awesome way to learn what you know and ask questions about what you don't know yet.
 
-[Triangle Side Lengths](7-triangle-side)
+[Good Guess](7-good-guess)
 [Calculate a Letter Grade](8-calculate-grade)
-[Detecting Leap Years](9-leap-years)
-[Good Guess](10-good-guess)
+[Triangle Side Lengths](9-triangle-side)
+[Detecting Leap Years](10-leap-years)
 [Detecting Simple Substrings](11-simple-substrings)
 
 ## Release 2: Reflect
