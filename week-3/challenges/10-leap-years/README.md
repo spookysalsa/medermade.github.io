@@ -7,7 +7,6 @@
 - Use conditional statements
 - Apply basic ruby methods to variables
 
-
 ## Summary
 Create a method `leap_year?` that accepts an integer representing a year as input.
 
