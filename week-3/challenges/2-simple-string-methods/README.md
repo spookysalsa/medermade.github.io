@@ -6,7 +6,6 @@
 - Create local variables
 - Modify existing variables with ruby methods
 
-
 ## Summary
 Create a `String` variable called `old_string` and assign it the value `"Ruby is cool"`.
 
