@@ -2,10 +2,8 @@
 
 # U1.W3: Defining Variables
 
-
 ## Learning Competencies
--
-
+- Define local variables
 
 ## Summary
 Create variables called `first_name`, `last_name`, and `age`.
@@ -13,15 +11,33 @@ Create variables called `first_name`, `last_name`, and `age`.
 Assign the variables your personal information.
 
 ## Releases
-## Release 0: Run the tests
-In your terminal, make sure you are in this [1-defining-variables](1-defining-variables) directory. Type `rspec` followed by the spec file name. ex. `rspec defining_variables_spec.rb`
-Each test should fail. Read the output in your terminal to see what is making the tests fail.
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-*commit your changes*
+## Release 0: Pseudocode
+Consider what you need to do to solve the challenge. You can write it down if it will help you, or you can move on to the next release.
+
+## Release 1: Initial Solution
+In the 'my_solution.rb' file, code your solution.
 
 ## Release 2: Test
+Now it's time to make sure your code passes the tests!
 
-## Release 3: Publish
-When you feel confident with your solution, push your changes through the command line to your repo on GitHub.
+In your terminal, make sure you are in this [1-defining-variables](1-defining-variables) directory.
+
+Type `rspec` followed by the spec file name.
+
+```ruby
+
+$ 1-defining-variables [master] :> rspec defining_variables_spec.rb
+
+```
+
+You should get a summary of successes and failures. The failures will have a note to help guide you.
+
+## Release 3: Refactor
+Make any necessary changes based on the tests. Then run the tests again.
+
+Make sure all the tests pass before moving on.
+
+## Release 4: Publish
+When your solution is passing all of the tests, commit and push your changes!
 
