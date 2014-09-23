@@ -13,16 +13,21 @@ You do not need to write any code in the body of the method.
 
 ## Releases
 
-## Release 0: Run the tests
-In your terminal, make sure you are in the [easy_add_it_up](./) directory. Type `rspec` followed by the spec file name. ex. `rspec array_total_spec.rb`
-Each test should fail. Read the output in your terminal to see what is making the tests fail.
+## Release 0: Pseudocode
+Consider what you need to do to solve the challenge. You can write it down if it will help you, or you can move on to the next release.
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-*commit your changes*
+## Release 1: Initial Solution
+Code your solution in the [my_solution.rb](my_solution.rb) file.
 
 ## Release 2: Test
+Run the tests to make sure your code passes!
 
-## Release 3: Publish
-When you feel confident with your solution, push your changes through the command line to your repo on GitHub.
+Remember, type `rspec` followed by the spec file name (and make sure you are in the proper directory).
 
-## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+## Release 3: Refactor
+Make any necessary changes based on the tests. Then run the tests again.
+
+Make sure all the tests pass before moving on.
+
+## Release 4: Publish
+When your solution is passing all of the tests, commit and push your changes!

@@ -1,3 +1,7 @@
+# U1.W3: Count Between
+
+# I worked on this challenge [by myself, with: ].
+
 # count_between is a method with three arguments:
 #   1. An array of integers
 #   2. An integer lower bound
@@ -7,6 +11,8 @@
 # including (potentially) those bounds.
 #
 # If +array+ is empty the method should return 0
+
+# Your Solution Below
 
 def count_between(array, lower_bound, upper_bound)
   # Your code goes here!

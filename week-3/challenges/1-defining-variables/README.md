@@ -16,7 +16,7 @@ Assign the variables your personal information.
 Consider what you need to do to solve the challenge. You can write it down if it will help you, or you can move on to the next release.
 
 ## Release 1: Initial Solution
-In the 'my_solution.rb' file, code your solution.
+Code your solution in the [my_solution.rb](my_solution.rb) file.
 
 ## Release 2: Test
 Now it's time to make sure your code passes the tests!

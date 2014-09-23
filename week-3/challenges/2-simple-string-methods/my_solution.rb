@@ -1,20 +1,9 @@
-# U1.W3:
+# U1.W3: Simple String Methods
+
 
 # I worked on this challenge [by myself, with: ].
 
-# 1. Pseudocode
 
-# What is the input?
-# What is the output? (i.e. What should the code return?)
-# What are the steps needed to solve the problem?
+# Your Solution Below
 
 
-# 2. Initial Solution
-
-
-
-# 3. Refactored Solution
-
-
-
-# 4. Reflection
