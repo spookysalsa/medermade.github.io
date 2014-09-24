@@ -2,23 +2,23 @@ require_relative "my_solution"
 
 describe 'longest_string' do
   it "returns nil when the array is empty ([])" do
-    longest_string([]).should be_nil
+    expect(longest_string([])).to be_nil
   end
 
   it "returns '' when that is the only element in the array" do
-    longest_string(['']).should eq ''
+    expect(longest_string([''])).to eq ''
   end
 
   it "returns 'cat' when that is the only element in the array" do
-    longest_string(['cat']).should eq 'cat'
+    expect(longest_string(['cat'])).to eq 'cat'
   end
 
   it "returns the longest string regardless of what characters they contain" do
-    longest_string(['ZZZ', 'zzzzz']).should eq 'zzzzz'
+    expect(longest_string(['ZZZ', 'zzzzz'])).to eq 'zzzzz'
   end
 
   it "returns the 'aaaaaaa' with the example array" do
-    longest_string(['cat', 'aaaaaaa', 'apples']).should eq 'aaaaaaa'
+    expect(longest_string(['cat', 'aaaaaaa', 'apples'])).to eq 'aaaaaaa'
   end
 
   it "returns the longest string regardless of ordering" do
@@ -26,6 +26,6 @@ describe 'longest_string' do
     # up to 10 characters long, but randomly ordered
     array = Array.new(10) { |i| 'a' * (i + 1) }.shuffle
 
-    longest_string(array).should eq 'a'*10
+    expect(longest_string(array)).to eq 'a'*10
   end
 end
