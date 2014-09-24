@@ -4,9 +4,9 @@
 
 
 ## Learning Competencies
-- Create and iterate over arrays
-- Create a hash
-- Apply array methods
+- Define and iterate over arrays
+- Define a hash
+- Apply string, array, hash, and/or enumerable methods
 
 ## Summary
 So far you've used variables to store information, but what happens if you have a lot of information to store? Say you want to have a list of your favorite bands, and you are a bit of a music lover so there are hundreds of them. You wouldn't want to have to assign them like so:
@@ -26,7 +26,7 @@ As you can see, this would take a while. Instead, it would be better to use a di
 In this chapter Pine addresses arrays and iterating over arrays.
 
 ## Release 1: Challenges
-It will be useful for you to start looking at the [ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html) at this point. Although it's difficult to read, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well.
+It will be useful for you to look at the [ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well.
 
 [Find the smallest integer in an array](12-smallest-integer)
 [Find the largest integer in an array](13-largest-integer)

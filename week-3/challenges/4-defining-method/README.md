@@ -5,7 +5,6 @@
 ## Learning Competencies
 - Define a method that accepts arguments
 
-
 ## Summary
 Define a method called `do_something` that accepts three parameters.
 

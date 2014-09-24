@@ -8,7 +8,7 @@ Use conditionals (if/elsif/else)
 Iterate over arrays
 Define and access values in a hash
 Define a basic class
-Apply string, array, hash, and enumerable methods
+Apply string, array, hash, and/or enumerable methods
 
 Challenges:
 - Chris Pine chapters 2-9 with specific exercises from Socrates for practice (10 hours)

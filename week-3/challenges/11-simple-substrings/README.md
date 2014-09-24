@@ -3,9 +3,9 @@
 # U1.W3: Detecting Simple Substrings
 
 ## Learning Competencies
-- Define local variables and methods
+- Define a method that accepts and uses arguments
 - Use conditional statements
--
+- Apply string, array, hash, and/or enumerable methods
 
 ## Summary
 Create a method called `welcome` that accepts an address as a single string.

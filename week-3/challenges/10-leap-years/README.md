@@ -5,7 +5,7 @@
 ## Learning Competencies
 - Define local variables and methods
 - Use conditional statements
-- Apply basic ruby methods to variables
+- Apply string, array, hash, and/or enumerable methods
 
 ## Summary
 Create a method `leap_year?` that accepts an integer representing a year as input.

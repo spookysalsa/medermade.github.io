@@ -14,6 +14,6 @@
 
 # Your Solution Below
 
-def count_between(array, lower_bound, upper_bound)
+def count_between(list_of_integers, lower_bound, upper_bound)
   # Your code goes here!
 end

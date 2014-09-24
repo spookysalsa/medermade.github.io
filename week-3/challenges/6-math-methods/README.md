@@ -3,8 +3,7 @@
 # U1.W3: Basic Arithematical Methods
 
 ## Learning Competencies
-- Define a method that accepts arguments
-- Use arguments in a method
+- Define a method that accepts and uses arguments
 - Apply basic ruby methods to variables
 
 ## Summary

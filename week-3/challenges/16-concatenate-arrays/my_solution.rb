@@ -5,6 +5,6 @@
 
 # Your Solution Below
 
-def array_concat(array1, array2)
+def array_concat(array_1, array_2)
   # Your code here
 end

@@ -7,7 +7,7 @@
 - Run ruby programs from the command line
 - Use conditionals (if/elsif/else)
 - Iterate over arrays
-- Apply string, array, hash, and enumerable methods
+- Apply string, array, hash, and/or enumerable methods
 
 ## Summary
 Now is your time to review methods and learn a bit more about them.

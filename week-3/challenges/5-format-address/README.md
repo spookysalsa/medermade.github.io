@@ -3,8 +3,8 @@
 # U1.W3: Define a method that returns a formatted address
 
 ## Learning Competencies
-- Define a method that accepts arguments
-- Use arguments in a method
+- Define a method that accepts and uses arguments
+- Apply string, array, hash, and/or enumerable methods
 
 ## Summary
 Create a method called `make_address` that accepts parameters for the `street`, `city` , `state`, and `zip`  and returns a single address string.
@@ -44,4 +44,3 @@ Make sure all the tests pass before moving on.
 
 ## Release 4: Publish
 When your solution is passing all of the tests, commit and push your changes!
-
