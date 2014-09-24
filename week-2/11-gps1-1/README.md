@@ -16,7 +16,7 @@ Make sure that you use all the resources available to you, your pair, the git do
 
 ## Release 0: Fork the repo
 
-Choose 1 member of your pair and fork [this repo](https://github.com/Devbootcamp/phase-0-gps-1). Add your guide and your pair as collaborators on your fork. Inside there is a file called html_page.md, old_english.md and song_lyrics.md
+Choose 1 member of your pair and fork [this repo](https://github.com/Devbootcamp/phase-0-gps-1). Inside there is a file called html_page.md, old_english.md and song_lyrics.md
 
 
 ## Release 1: Clone the Repo
@@ -30,9 +30,9 @@ Take some time to talk about why you would bother creating a feature branch in t
 
 ## Release 3: Fetch and Merge
 
-Switch driver and navigator roles, now the other partner will make modifications. But first the new driver will need to incorporate the changes already pushed to GitHub. Fetch and merge the changes to your local repository.
+Switch driver and navigator roles, now the other partner will make modifications. But first the new driver will need to incorporate the changes already pushed to GitHub. Fetch and merge the changes to your local repository. (git fetch <remote> <branch>)
 
-Make a new branch and follow the instructions for changing html_page and song_lyrics.
+Make a new branch and follow the instructions for changing song_lyrics.
 
 Make a pull request like last time. The navigator should review the diff of the request and merge it. You will be using this work flow all the time as a developer!
 
@@ -56,5 +56,3 @@ Confer with your partner and guide about what a good git work flow is, the purpo
 
 ## Release 6: Reflect
 On your own, reflect on this challenge in the [my_reflection.md](my_reflection.md) file.
-
-
