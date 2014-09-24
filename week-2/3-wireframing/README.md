@@ -57,7 +57,7 @@ Save an image or picture of your wireframe and name it "wireframe-index" as well
 
 ## Release 4: Add your wireframes to your reflection.
 
-Now that you have your wireframes designed and a digital image of each saved, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](https://github.com/Devbootcamp/phase-0-unit-1/tree/marias-week2/week-2/2-site-planning) to add both images to your site.
+Now that you have your wireframes designed and a digital image of each saved, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](https://www.github.com/Devbootcamp/phase-0-unit-1/tree/marias-week2/week-2/2-site-planning) to add both images to your site.
 
 
 ## Release 5: Reflection
