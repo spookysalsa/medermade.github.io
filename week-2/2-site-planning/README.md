@@ -72,5 +72,5 @@ Edit the [my_reflection.md](my_reflection.md) file associated with this challeng
 
 ## Additional Resources:
 - [Why Developers Need to Learn Design](http://www.cognition.happycog.com/article/why-developers-need-to-learn-design)
-- [Planning a Design Project](http://www.webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277)
+- [Planning a Design Project](http://webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277)
 - [Planning and Scheming: How We Start a Web Design Project](http://www.bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project)
