@@ -1,7 +1,7 @@
 # GPS 1.1 Git work flow and branching
 
 ## Learning Competencies
-- Establish a git work flow with a collaborator
+- Establish a git workflow
 - Explain what a git branch is and its purpose
 - Demonstrate the ability to research for debugging or to better understand concepts
 
