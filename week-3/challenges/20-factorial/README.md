@@ -39,4 +39,4 @@ Make any necessary changes based on the tests. Then run the tests again.
 Make sure all the tests pass before moving on.
 
 ## Release 4: Publish
-When your solution is passing all of the tes2ts, commit and push your changes!
+When your solution is passing all of the tests, commit and push your changes!
