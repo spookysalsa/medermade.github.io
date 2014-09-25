@@ -6,7 +6,6 @@ Please keep track of how much time you spend on the required sections of Phase 0
 
 When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 
-
 ## This Week's Challenges
 
 #### 1. [The Command Line](1-command-line)

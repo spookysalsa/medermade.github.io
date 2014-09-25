@@ -2,7 +2,6 @@
 
 #U1.W3: Numbers, Letters, and Variable Assignment
 
-
 ## Learning Competencies
 - Add, subtract, multiply, and divide numbers
 - Compare integers and floats

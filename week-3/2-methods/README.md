@@ -2,7 +2,6 @@
 
 #U1.W3: Variables and Methods
 
-
 ## Learning Competencies
 - Define local variables and methods
 - Run a ruby program from the command line

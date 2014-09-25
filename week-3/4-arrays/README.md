@@ -1,6 +1,6 @@
 [Week 3 Home](../)
 
-#U1.W3: Arrays and Iterators
+#U1.W3: Arrays, Iterators, and Hashes
 
 
 ## Learning Competencies
