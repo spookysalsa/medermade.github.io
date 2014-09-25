@@ -29,7 +29,7 @@ Link to your blog on the blog-posts/index.html page of your site and push your c
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using #DBCThinkStyle.
+Tweet your blog post using **#DBCThinkStyle**.
 
 ## Release 5: Read
 Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
