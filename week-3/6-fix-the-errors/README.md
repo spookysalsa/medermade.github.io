@@ -4,10 +4,7 @@
 
 ## Learning Competencies
 - Run ruby programs from the command line
-- Determine the error by reading error messages
-- Define local variables and methods
-- Define a method that accepts and uses arguments
-- Fix syntax errors after determining the problem
+- Analyze error messages to determine why they are happening
 
 ## Summary
 You have probably already had your share of seeing error messages pop up in your console when you run your ruby programs, which can be very frustrating. If you've taken a look at the error messages that get returned, it can be difficult to get past the "gobbly-gook" to find out what the problem is. In this challenge, you will be encountering a lot of errors. The point is to learn how to read each error and fix it to move on.
