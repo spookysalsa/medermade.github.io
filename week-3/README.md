@@ -22,7 +22,7 @@ You may also be interested in getting the *Well-Grounded Rubyist* by David A. Bl
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
-10. [BONUS Challenges](10-BONUS-Challenges) **Optional**
+10. [BONUS Challenges](10-BONUS-challenges) **Optional**
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
