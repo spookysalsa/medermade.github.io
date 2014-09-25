@@ -4,9 +4,7 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 
 ### [Week 1: Git, Github, and the Command Line](week-1/README.md)
 ### [Week 2: HTML and CSS](week-2/README.md)
-
-Week 3 will be released next week.
-<!-- ### [Week 3: Introduction to Ruby](week-3) -->
+### [Week 3: Introduction to Ruby](week-3/README.md)
 
 ## Unit Requirements
 - [Peer-Pair program](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) at least 4 times this unit. Read about [pairing](https://github.com/Devbootcamp/phase-0-handbook/blob/master/pairing-in-phase-0.md).
