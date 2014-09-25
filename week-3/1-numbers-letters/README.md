@@ -32,12 +32,12 @@ irb(main):002:0>
 Go to the [my_solution.md](my_solution.md) file associated with this challenge. Go to the numbers section and answer the questions in the "summary" section.
 
 ## Release 2: Try it!
-In section 2.5, Pine provides two great mini challenges. Create these two programs and paste your code into the ruby section in your [my_solution.md](my_solution.md) file.
+In section 2.5, Pine provides two great mini-challenges. Create these two programs and paste your code into the ruby section in your [my_solution.md](my_solution.md) file.
 
 **Mini-challenges**
 Write a program that calculates and outputs the:
-1. Hours in a year
-2. Minutes in a decade
+- Hours in a year
+- Minutes in a decade
 
 ## Release 3: Read Ch.3 Letters
 

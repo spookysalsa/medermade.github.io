@@ -5,10 +5,10 @@
 ## Learning Competencies
 - Research your thinking style
 - Consider strategies for adapting your learning to your thinking style
-- formulate ways to expand the ways you learn and think
+- Formulate ways to expand the ways you learn and think
 
 ## Release 0: Copy your Blog Template
-In your [USERNAME].github.io/blog directory , copy your blog tempate into a new HTML file named `c3_thinking-style.html`.
+In your [USERNAME].github.io/blog directory, copy your blog tempate into a new HTML file named `c3_thinking-style.html`.
 
 ## Release 1: Research
 
@@ -29,7 +29,7 @@ Link to your blog on the blog-posts/index.html page of your site and push your c
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using #DBCThinkStyle
+Tweet your blog post using #DBCThinkStyle.
 
 ## Release 5: Read
-Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an [issue](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
+Read at least one post another student wrote. Give the author A.S.K (Actionable, Specific, and Kind) feedback as an [issue](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) on their repo or a tweet!
