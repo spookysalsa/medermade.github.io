@@ -42,7 +42,7 @@ Pine doesn't do justice to hashes in his book, unfortunately, but they are also 
 Check out a couple of the following resources to get an introduction:
 - Pine's section 12.3
 - [Codecademy: Hashes](http://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb) Move to the "Hash" section.
-- Well-Grounded Rubyist ch. 9.3 (in either edition)
+- *The Well-Grounded Rubyist* ch. 9.3 (Look at the [bonus challenge](10-BONUS-challenges/Well-Grounded-Rubyist.md) before buying the book!
 
 Then complete the following challenge:
 [Define a Hash](18-define-hash)

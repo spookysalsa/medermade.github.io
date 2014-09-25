@@ -51,4 +51,4 @@ This book can be very seductive by making you think you fully understand concept
 You may also take this opportunity to write a blog post about what you learned. Name this blog `ruby-foundamentals.html`. Make sure its findable from the blog index!
 
 ## Release 4: Publish (Optional)
-Publish your blog on your [USERNAME].github.io. Make sure to link to it from your index! Then tweet about your awesome blog using **#DBCrubyfoundation**. If you are particularly proud of your blog, you may want to tweet it @david_a_black as well! He may even respond!
+Publish your blog on your [USERNAME].github.io. Make sure to link to it from your index! Then tweet about your awesome blog using **#DBCRubyBasics**. If you are particularly proud of your blog, you may want to tweet it @david_a_black as well! He may even respond!

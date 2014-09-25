@@ -64,4 +64,4 @@ See the link for more information about refactoring.
 ## Release 5: Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to write your reflection.
 
 ## Release 6: Publish
-Commit and push your solution to Github
+Commit and push your solution to Github.
