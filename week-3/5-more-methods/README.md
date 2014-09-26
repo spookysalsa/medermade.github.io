@@ -22,8 +22,8 @@ If you want to work on Pine's challenges as a bonus, feel free to add a file and
 ## Release 1: Challenges
 Complete the following challenges. Be sure to take advantage of pairing!
 
-- [Pretty Triangle](19-pretty-triangle)
-- [Factorial](20-factorial)
+- [Pretty Triangle](../challenges/19-pretty-triangle)
+- [Factorial](../challenges/20-factorial)
 
 ## Release 2: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.

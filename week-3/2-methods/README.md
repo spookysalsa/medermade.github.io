@@ -7,7 +7,7 @@
 - Run a ruby program from the command line
 
 ## Summary
-Now's your chance to put what you've learned together!
+Now is your chance to put what you've learned together!
 
 ## Releases
 
@@ -24,7 +24,7 @@ Complete the two mini-challenges Pine created using Sublime and running it throu
 ## Release 2: Creating Methods
 We are going to deviate a bit from Pine's introduction for a minute by introducing you to the idea of creating your own methods.
 
-You can assign blocks of code to an object called a method, which makes it a lot easier to run. This saves a lot of time. For example, imagine writing return addresses on envelopes (who does that anymore)? Instead of writing it out every. single. time., it would be easier to create a label. This is basically the same idea as using methods. If I were to use Pine's instructions to get an address from a user, it would look something like this:
+You can assign blocks of code to an object called a method. This encapsulates code to run when you call the name of the method instead of writing the full code each time. For example, imagine writing return addresses on envelopes (who does that anymore)? Instead of writing it out every. single. time., it would be easier to create a label. This is basically the same idea as using methods. If I were to use Pine's instructions to get an address from a user, it would look something like this:
 
 ```ruby
 
@@ -62,7 +62,7 @@ print_address("Maria Piper", "633 Folsom Street", "San Francisco, CA 94107")
 
 In the next few exercises, we will be asking you to "wrap" logic into a method.
 
-Now's your chance to practice! Complete the [Define an Empty Method](4-defining-method) challenge.
+Now's your chance to practice! Complete the [Define an Empty Method](../challenges/4-defining-method) challenge.
 
 ## Release 3: Read Ch. 6: More About Methods
 Read through the entire chapter to get a better feel for the built-in methods ruby has. (There are a LOT more, by the way).
@@ -70,8 +70,8 @@ Read through the entire chapter to get a better feel for the built-in methods ru
 ## Release 4: More small challenges!
 Now you'll want to expand your brain a bit by working on the following challenges.
 
-- [Return a Formatted Address](5-format-address)
-- [Defining Math Methods](6-math-methods)
+- [Return a Formatted Address](../challenges/5-format-address)
+- [Defining Math Methods](../challenges/6-math-methods)
 
 ## Release 5: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
