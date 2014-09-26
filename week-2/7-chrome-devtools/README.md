@@ -31,7 +31,7 @@ Load the [css-positioning.html](css-positioning.html) in your browser and open t
 
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
-- Change the colors of the boxes using the colors that match your three favorite names in the inspector list
+- Change the background-color of the boxes. In the css section type "background-color", you'll then see a list of colors - select your favorite for each box!
 - Put the boxes in a row
 - Make the boxes have equal distance between them
 - Move all the boxes into one column
@@ -39,8 +39,8 @@ Then, complete each of the following. You will need to take a screenshot when yo
 - Make the static div go to the bottom and have an absolute positiion (no matter what, it should always be at the bottom of the page - but not in the browser window) Make the footer 100% the width of the screen
 - Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
 - Move the relative div position to the right so it's like a right sidebar.
-- Make a configuration that plays with margin, border, and padding. See if you can find a quick way to explain that to yourself.
-- Make a configuration that uses block and inline-block to see what the differences are
+- Design your own configuration that uses margin, border, and padding. Explain the differences and how to use each to yourself.
+- Make a configuration that uses block and inline-block to see what the differences are.
 
 Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
 
