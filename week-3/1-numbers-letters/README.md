@@ -27,7 +27,7 @@ irb(main):001:0> 1+2
 irb(main):002:0>
 ```
 
-If you want to work in sublime, you can write your code in a file with the .rb extension and run it in the terminal using `ruby <filename>.rb`. Make sure that you are outputting something to the terminal when using the method (p is the best to use here).
+If you want to work in sublime, you can write your code in a file with the .rb extension and run it in the terminal using `ruby <filename>.rb`. Make sure that you are outputting something to the terminal when using the method. For outputting to the terminal you can use p puts and print. p will return the evaluated code AND print to the console. puts will return nil and print the output to the console. print will not add spaces to the end of the outputs.
 
 
 

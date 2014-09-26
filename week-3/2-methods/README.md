@@ -43,7 +43,7 @@ puts city_state_zip
 
 That's a lot of code for one simple address!
 
-Here is how we can use a method to "wrap" the code. This code will require less user interaction using "gets" as well. Instead, a user will pass information into the method using arguments.
+Here is how we can use a method to "wrap" the code. We are changing how the code works a bit here, instead of getting user input for the arguments, we are defining them when we call the method.
 
 ```ruby
 # print_address is a method we've defined
