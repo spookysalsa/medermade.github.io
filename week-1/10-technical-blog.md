@@ -59,7 +59,7 @@ Double check you can see your updated content on [USERNAME].github.io/blog/t1-gi
 
 ## Release 5: Promote
 
-Now that your awesome blog is done, it's time to tweet about it! (This is required by the way). Make sure to practice your awesome tweeting skills to introduce the topic.
+Now that your awesome blog is done, it's time to share it with your cohort (and the world!) on twitter! Make sure to practice your awesome tweeting skills to introduce the topic.
 
-Tweet using the hashtag **#DBCgit**.
+Tweet using the hashtag **#DBCgit** so everyone can find each other's links easily.
 

@@ -39,4 +39,4 @@ Don't forget to add, commit, and push your changes to make them live on your git
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using **#DBCFireside**.
+Tweet your blog post using **#DBCFireside** and read some of your cohort-mates blogs as well!
