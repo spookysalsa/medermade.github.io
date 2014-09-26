@@ -28,12 +28,12 @@ In this chapter Pine addresses arrays and iterating over arrays.
 ## Release 1: Challenges
 It will be useful for you to look at the [ruby documentation for arrays](http://www.ruby-doc.org/core-2.0/Array.html). Although the documentation is difficult to read at first, you should start getting as comfortable as possible with these docs. You can also checkout the docs for other objects as well.
 
-- [Find the smallest integer in an array](12-smallest-integer)
-- [Find the largest integer in an array](13-largest-integer)
-- [Find the shortest string in an array](14-shortest-string)
-- [Find the longest string in an array](15-longest-string)
-- [Concatenate Two Arrays](16-concatenate-arrays)
-- [Count the numbers in an array between a given range](17-count-between)
+- [Find the smallest integer in an array](../challenges/12-smallest-integer)
+- [Find the largest integer in an array](../challenges/13-largest-integer)
+- [Find the shortest string in an array](../challenges/14-shortest-string)
+- [Find the longest string in an array](../challenges/15-longest-string)
+- [Concatenate Two Arrays](../challenges/16-concatenate-arrays)
+- [Count the numbers in an array between a given range](../challenges/17-count-between)
 
 
 ## Release 2: Hashes
@@ -46,7 +46,7 @@ Check out a couple of the following resources to get an introduction:
 - *The Well-Grounded Rubyist* ch. 9.3 (Look at the [bonus challenge](10-BONUS-challenges/Well-Grounded-Rubyist.md) before buying the book!
 
 Then complete the following challenge:
-- [Define a Hash](18-define-hash)
+- [Define a Hash](../challenges/18-define-hash)
 
 ## Release 3: Reflection
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
