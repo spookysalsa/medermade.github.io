@@ -16,7 +16,7 @@ In this challenge you will go through basic mathematical operations.
 ## Releases
 
 ## Release 0: Read Ch. 2: Numbers
-You may want to save everything in Sublime, or you can go in to your terminaland use the ruby REPL. REPL stands for read-eval-print-loop. The ruby REPL is called IRB (<b>I</b>nteractive <b>R</b>u<b>b</b>y. You can access irb by typing `irb` in the console (suprise!). You can use irb as a sandbox to test methods and run your code.
+You may want to save everything in Sublime, or you can go in to your terminal and use the ruby REPL. REPL stands for read-eval-print-loop. The ruby REPL is called IRB (<b>I</b>nteractive <b>R</b>u<b>b</b>y. You can access irb by typing `irb` in the console (suprise!). You can use irb as a sandbox to test methods and run your code.
 
 For example
 
