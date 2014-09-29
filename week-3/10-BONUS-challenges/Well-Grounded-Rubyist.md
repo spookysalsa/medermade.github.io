@@ -18,8 +18,9 @@ We highly recommend purchasing a copy of this book to assist you as you move thr
 
 NOTE: Chapter numbers are based on the 2nd edition of the book.
 
-*The coupon only applies for the 2nd edition, for either a digital or physical copy. We have had some students have problems using the coupon code internationally, and we've been working on resolving the issue with the publisher.
-** Please respect our agreement with Manning Publications by not sharing this coupon code with anyone else or providing digital copies to others. If these things happen, it will result in the loss of the discount and damage DBC's reputation.
+*The coupon only applies for the 2nd edition, for either a digital or physical copy. The code should work internationally. If you have problems, please try clearing the cookies and re-trying.
+
+**Please respect our agreement with Manning Publications by not sharing this coupon code with anyone else or providing digital copies to others. If these things happen, it will result in the loss of the discount and damage DBC's reputation.
 
 ## Releases
 
