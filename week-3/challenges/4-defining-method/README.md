@@ -23,6 +23,8 @@ Run the tests to make sure your code passes!
 
 Remember, type `rspec` followed by the spec file name (and make sure you are in the proper directory).
 
+The last 3 files had the Rspec tests in the same file. These tests are in a different file, make sure you run the spec file this time.
+
 ## Release 3: Refactor
 Make any necessary changes based on the tests. Then run the tests again.
 
