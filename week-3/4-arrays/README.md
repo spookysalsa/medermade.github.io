@@ -5,7 +5,7 @@
 
 ## Learning Competencies
 - Define and iterate over arrays
-- Define a hash
+- Define and access values in a hash
 - Apply string, array, hash, and/or enumerable methods
 
 ## Summary
