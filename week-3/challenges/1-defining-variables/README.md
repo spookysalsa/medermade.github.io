@@ -27,7 +27,7 @@ Type `rspec` followed by the spec file name.
 
 ```ruby
 
-$ 1-defining-variables [master] :> rspec defining_variables_spec.rb
+$ 1-defining-variables [master] :> rspec my_solution.rb
 
 ```
 
