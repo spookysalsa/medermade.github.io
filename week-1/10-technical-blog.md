@@ -41,7 +41,7 @@ If you went through every step, you should see the blog template live on your si
 
 ## Release 2: Write
 
-Now, in your `t1-git-blog.md` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a n00b (newbie) to programming. If it helps, imagine writing post on the questions above for yourself last week.
+Now, in your `t1-git-blog.md` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a newb (newbie) to programming. If it helps, imagine writing post on the questions above for yourself last week.
 
 
 ## Release 3: Proofread
