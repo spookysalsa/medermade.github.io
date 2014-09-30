@@ -23,7 +23,7 @@ Now it's time to make sure your code passes the tests!
 
 In your terminal, make sure you are in this [1-defining-variables](1-defining-variables) directory.
 
-Type `rspec` followed by the spec file name.
+Type `rspec` followed by the file name.
 
 ```ruby
 
