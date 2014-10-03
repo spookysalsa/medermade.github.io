@@ -26,7 +26,7 @@ Reconsider the wireframe you created for your index.html in [3-wireframing](../3
 While you're at it, you should also make basic wireframes for each of the other pages on your site including, but not limited to pages for:
  - About me
  - Projects
- - blog/index.html
+ - blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html)
  - Any other page your site needs
 
 ## Release 1: Design
