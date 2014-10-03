@@ -1,9 +1,9 @@
 # Week 2: HTML and CSS
 
-<!-- Week 2's material is not ready yet!
+Week 2's material is not ready yet!
 
-We will release it with changes at least by the Friday before week 2 begins. -->
-
+We will release it with changes at least by the Friday before week 2 begins.
+<!--
 It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
@@ -45,3 +45,4 @@ Once you have the entire local repository on your computer, you don't need to re
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
 
 
+ -->
