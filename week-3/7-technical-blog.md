@@ -9,7 +9,7 @@
 In this blog, you will do a bit of research on `Array`s and `Hash`es and teach these concepts to your reader. Time-box yourself to an hour -- max 1.5 hours on your blog post. These aren't expected to be professional or perfect, but to show where you are at this point in your learning.
 
 ## Release 0: New file
-In your [USERNAME].github.io/blog directory, copy your blog template html into a new file named `t4-arrays-hashes.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template html into a new file named `t3-arrays-hashes.html`.
 
 ## Release 1: Research Arrays and Hashes
 Now that you've used arrays and hashes a bit, it is your chance to fully formalize that learning. Do a bit more research. Create examples of why you would use one over the other. Imagine presenting these structures to people who know nothing about programming.
