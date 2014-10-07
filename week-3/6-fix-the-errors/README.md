@@ -32,10 +32,10 @@ Answer each of the following questions for each error in your [my_solution.rb](m
 - What is the 'type' of the error? (hint: it's in parenthesis)
 
 ## Release 1: Comment the error
-When you finish answering the questions, comment out the line with the error and run the file again.
+When you finish answering the questions, comment out the code with the error and run the file again.
 
 ## Release 2: Repeat
-Repeat release 0 and 1 for each error until there are no more errors left!
+Repeat release 0 and 1 for each error until there are no errors left to assess!
 
 ## Release 3: Reflect
 Once you've assessed all of the errors, write a reflection (keep it to 10-15 min) in the [my_solution.rb](my_solution.rb) file.
