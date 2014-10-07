@@ -15,7 +15,7 @@ In your [USERNAME].github.io/blog directory, copy your blog template html into a
 Now that you've used arrays and hashes a bit, it is your chance to fully formalize that learning. Do a bit more research. Create examples of why you would use one over the other. Imagine presenting these structures to people who know nothing about programming.
 
 ## Release 2: Blog
-Write a blog post that describes and compares arrays and hashes. Be sure to include examples! Learn how to include code snippets for ruby in markdown as well so it's beautifully formatted!
+Write a blog post that describes and compares arrays and hashes. Be sure to include examples! Learn how to include code snippets for ruby in html as well so it's beautifully formatted!
 
 ## Release 3: Publish
 Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
