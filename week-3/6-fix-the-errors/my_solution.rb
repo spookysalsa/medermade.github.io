@@ -167,3 +167,7 @@ require_relative "cartmans_essay.md"
 #
 # (5) what is the 'type' of the error?
 #
+
+
+# --- REFLECTION -------------------------------------------------------
+# Write your reflection below as a comment.
