@@ -12,7 +12,7 @@
 ## Summary
 *The Well-Grounded Rubyist* by David A. Black is an excellent resource to give you a solid foundation in Ruby. There are currently two editions. The second edition just came out, and we've negotiated a discount code for this edition that will give you 45% off the list price.* The code is: **rubycl14**. We have negotiated this code especially for Dev Bootcamp students.**
 
-You may also use the first edition if you would like. The second will be relevent longer since it's been updated for Ruby 2.0, but the first edition also has many of the basic fundamentals that will still help.
+You may also use the first edition if you would like. The second will be relevant longer since it's been updated for Ruby 2.0, but the first edition also has many of the basic fundamentals that will still help.
 
 We highly recommend purchasing a copy of this book to assist you as you move through the Phase 0 and Phase 1 curriculum.
 
