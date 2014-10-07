@@ -23,7 +23,8 @@ end
 
 # (1) what is the name of the file with the error?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the line number where the error occurs? 
+# HINT: The line number is deceiving with this one. 
 #
 # (3) what is the error message?
 #
