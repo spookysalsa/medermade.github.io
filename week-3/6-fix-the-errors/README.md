@@ -23,7 +23,7 @@ You should see something like this:
 
 Read the error closely.
 
-Answer each of the following questions for each error in your [my_solution.md](my_solution.md) file as a comment.
+Answer each of the following questions for each error in your [my_solution.rb](my_solution.rb) file as a comment.
 
 - What is the name of the file with the error? (hint: it's the first thing in the error message)
 - What is the line number where the error occurs? (hint: it's after the file name)
@@ -37,8 +37,8 @@ When you finish answering the questions, comment out the line with the error and
 ## Release 2: Repeat
 Repeat release 0 and 1 for each error until there are no more errors left!
 
-## Release 3: Publish
-When your file runs with no errors, commit your changes and push them to GitHub!
+## Release 3: Reflect
+Once you've assessed all of the errors, write a reflection (keep it to 10-15 min) in the [my_solution.rb](my_solution.rb) file.
 
 ## Additional Resources
 Check out these links to better understand how errors work in ruby and how you can "catch" them instead of letting them crash your program.
