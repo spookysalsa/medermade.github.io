@@ -17,10 +17,12 @@ In this challenge, you will make your [USERNAME].github.io site using the princi
 
 Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week or unit if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version. Designing and building a site can take a **LONG TIME**, so just get your site "good enough" for your MVP. You can always make it better later!
 
+Included in the header of each release is a suggested number of pomodoro units to take. A pomodoro is the productivity method of 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](www.moosti.com). Use this as a guide to timebox your work and not spend too long on this challenge. You will be improving your website as you go through the program. Don't burn out now!
+
 
 ## Releases
 
-## Release 0: Wireframes
+## Release 0: Wireframes (1 pomodoro)
 Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
 
 While you're at it, you should also make basic wireframes for each of the other pages on your site including, but not limited to pages for:
@@ -29,17 +31,15 @@ While you're at it, you should also make basic wireframes for each of the other 
  - blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html)
  - Any other page your site needs
 
-## Release 1: Design
+## Release 1: Design (1 pomodoro)
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
-- [Web Design Inspiration](http://www.webdesign-inspiration.com/) Check this out if you want ideas!
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
-- [Logo Garden](http://www.graphicsprings.com/) to create your own logo
 
 You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidfy your design.
 
-## Release 2: Development
+## Release 2: Development (2 pomodoro)
 
 #### Add Content using HTML
 Using your wireframes and design as references, add content to your index.html (as well as other) pages in your [USERNAME].github.io site using HTML.
@@ -49,7 +49,7 @@ You should include links to each social networking site using icons. Make sure t
 Once you have all of the content on your index, you are ready to create the other required pages. Make sure the links on your index will actually take you to the other pages on your site! Don't forget to link to week 1's blog posts on your blog-posts index!
 
 
-#### Apply CSS
+#### Apply CSS (2 pomodoro)
 Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them the same.
 
 - Add styling to your header, footer, and navigation bar.
@@ -58,18 +58,13 @@ Now you can truly begin to appreciate CSS, which stands for Cascading Style Shee
 
 Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
 
-Reminder: Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
-
-## Release 3: Publish
+## Release 3: Publish (5 minutes)
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
-## Release 4: Review
-
-Take a look at two of your peers' sites and give them feedback using the issues on their github.io once you're finished. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
-
-## Release 5: Reflect
+## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
+<!-- Separate Challenge -->
 ## Release 6: Pseudo-Selectors (Optional)
 Want to dig a bit deeper into CSS? Maybe you're curious about using some exciting CSS like `:hover`. Take a look at:
 
