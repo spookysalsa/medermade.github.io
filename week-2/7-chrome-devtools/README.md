@@ -22,7 +22,7 @@ Use the following resources to acquaint yourself with Chrome's DevTools.
   - Chapter 1: Getting Started & Basic DOM and Styles
   - Chapter 2: Advanced DOM and Styles
 
-Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them(they appear on the right of your Code School profile page), add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
+Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them (they appear on the right of your Code School profile page). Add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
 
 ## Release 2: Practice
 First, find the tab that supports realtime editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will certainly save you time.
@@ -31,12 +31,12 @@ Load the [css-positioning.html](css-positioning.html) in your browser and open t
 
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
-- Change the background-color of the boxes. In the css section type "background-color", you'll then see a list of colors - select your favorite for each box!
-- Put the boxes in a row
-- Make the boxes have equal distance between them
-- Move all the boxes into one column
-- Resize the boxes so they are 30% of their original size
-- Make the static div go to the bottom and have an absolute positiion (no matter what, it should always be at the bottom of the page - but not in the browser window) Make the footer 100% the width of the screen
+- Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box!
+- Put the boxes in a row.
+- Make the boxes have equal distance between them.
+- Move all the boxes into one column.
+- Resize the boxes so they are 30% of their original size.
+- Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
 - Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
 - Move the relative div position to the right so it's like a right sidebar.
 - Design your own configuration that uses margin, border, and padding. Explain the differences and how to use each to yourself.
