@@ -21,18 +21,31 @@ Included in the header of each release is a suggested number of pomodoro units t
 
 ## Releases
 
-## Release 0: Wireframes (10 minutes)
+## Release 0: Wireframes (15 minutes)
 Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
 
-While you're at it, you should also sketch out the layout of the other pages on your site including, but not limited to pages for:
+Will your site need any other pages? You do not have to create them this session but you should decide what will be in your MVP and what will be done in the future.
+
+ Some ideas:
  - About me
  - Projects
  - blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html)
- - Any other page your site needs
 
- This is not supposed to be perfect, it is only a thematic guide to help you when you start laying things out. This is not a model of how your site will look.
 
 ## Release 1: Design (1 pomodoro)
+
+Figure out what is acceptable to you for an MVP. Create some user stories as the creator of this website that you want to have and stick to these features. For example:
+
+As the site creator, I want to be able to showcase my blog posts from a central location.
+As the site creator, I want to demonstrate my current knowledge of HTML and CSS.
+
+and as a user:
+
+As a user, I want to be able to clearly read the content the site creator has written.
+As a user, I want to be able to navigate seamlessly from page to page.
+
+These are just examples, what do you want to create for you MVP?
+
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
@@ -61,8 +74,6 @@ Don't forget about Chrome Devtools for testing out your style changes and figuri
 
 ## Release 3: Publish (5 minutes)
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
-
-Note that you should do this when you feel ready, that may be this week or sometime soon in phase-0. Do not feel rushed to put your website in the public eye before you are 70% proud of it. 70% because no one is ever finished with their website design and we want to have things to give you feedback for!
 
 ## Release 4: Reflect (10-15 minutes)
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
