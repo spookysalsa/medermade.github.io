@@ -73,7 +73,7 @@ git config --global user.email johndoe@example.com
 
 Now make sublime text your preferred editor for git:
 ```shell
-git config --global core.editor subl
+git config --global core.editor "subl -w"
 ```
 
 ## Release 6: Set up Sublime
