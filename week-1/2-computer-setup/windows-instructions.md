@@ -114,11 +114,7 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Then we want to set up our default text editor to sublime.
-
-```shell
-git config --global core.editor subl
-```
+Then we want to set up our default git editor to sublime. Follow [these instructions](http://stackoverflow.com/questions/8951275/git-config-core-editor-how-to-make-sublime-text-the-default-editor-for-git-on/9408117#9408117).
 
 ## Release 6: Install SQLite
 
