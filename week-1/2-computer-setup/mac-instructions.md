@@ -86,10 +86,12 @@ Now you have Rbenv! Sweet!
 
 **NOTE:** If you already have RVM installed, you will not need to install Rbenv. Do not try to install both, they don't work well together and will mess up your machine. Rbenv is preferred in many of our locations, so if you have RVM and want to install Rbenv, you'll have to uninstall RVM first.
 
-## Release 8: Install Ruby Build (unless you're using RVM)
+## Release 8: Install Ruby Build
 Type: ```brew install ruby-build```
 
 Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
+
+**NOTE:** If you are using RVM instead of rbenv, you will not need to install ruby-build.
 
 ## Release 9: Install Ruby 2.0.0
 Type: ```rbenv install 2.0.0-p481```
