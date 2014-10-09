@@ -49,7 +49,7 @@ Also called "Brew." Brew is like the app store for the command line (i.e. your t
 Install brew by copying and pasting this beautiful code into your terminal:
 
 ```shell
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 It will prompt you for your password - so be ready to type it in.
 
