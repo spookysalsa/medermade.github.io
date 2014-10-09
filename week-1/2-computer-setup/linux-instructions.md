@@ -19,9 +19,9 @@ Download and follow instructions from [their site](http://www.sublimetext.com).
 
 After you download, create a symlink so you can open sublime using `subl "filename"`
 
-Enter this command in to you terminal:
+Enter this command into your terminal:
 ```shell
-sudo ln -s /opt/SublimeText2/sublime_text /usr/bin/subl
+sudo ln -s /opt/SublimeText2/sublime_text /usr/local/bin/subl
 ```
 
 test by typing subl . it should open all files in your current directory!
