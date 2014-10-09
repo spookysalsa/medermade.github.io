@@ -79,17 +79,17 @@ git config --global core.editor "subl -w"
 ## Release 6: Set up Sublime
 Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
 
-## Release 7: Install Ruby Build
-Type: ```brew install ruby-build```
-
-We need this to install Rbenv, which will ruby version manager. Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
-
-## Release 8: Install Rbenv
+## Release 7: Install Rbenv
 Type: ```brew install rbenv```
 
 Now you have Rbenv! Sweet!
 
 **NOTE:** If you already have RVM installed, you will not need to install Rbenv. Do not try to install both, they don't work well together and will mess up your machine. Rbenv is preferred in many of our locations, so if you have RVM and want to install Rbenv, you'll have to uninstall RVM first.
+
+## Release 8: Install Ruby Build (unless you're using RVM)
+Type: ```brew install ruby-build```
+
+Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
 
 ## Release 9: Install Ruby 2.0.0
 Type: ```rbenv install 2.0.0-p481```
@@ -132,7 +132,8 @@ NOTE: If you have trouble installing postgres, don't worry about it. You won't n
 ```shell
 brew install postgres
 mkdir -p $HOME/Library/LaunchAgents
-brew services start postgres
+ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 ```
 
 You are now ready to start Phase 0!
