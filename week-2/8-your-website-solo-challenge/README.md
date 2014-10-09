@@ -5,7 +5,6 @@
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/) for more details as to what this entails.
 
 ## Learning Competencies
-- Use the 6 Phases of Web Design to build a website
 - Use wireframes to construct a website
 - Use HTML tags to present content on a website
 - Position HTML elements using CSS padding, borders, and margins
@@ -17,7 +16,7 @@ In this challenge, you will make your [USERNAME].github.io site using the princi
 
 Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week or unit if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version. Designing and building a site can take a **LONG TIME**, so just get your site "good enough" for your MVP. You can always make it better later!
 
-Included in the header of each release is a suggested number of pomodoro units to take. A pomodoro is the productivity method of 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](www.moosti.com). Use this as a guide to timebox your work and not spend too long on this challenge. You will be improving your website as you go through the program. Don't burn out now!
+Included in the header of each release is a suggested number of pomodoro units to take. A pomodoro is the productivity method of 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](http://www.moosti.com). Use this as a guide to timebox your work and not spend too long on this challenge. You will be improving your website as you go through the program. Don't burn out now!
 
 
 ## Releases
@@ -41,9 +40,9 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 
 You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidfy your design.
 
-## Release 2: Development (2 pomodoro)
+## Release 2: Development
 
-#### Add Content using HTML
+#### Add Content using HTML (2 pomodoro)
 Using your wireframes and design as references, add content to your index.html (as well as other) pages in your [USERNAME].github.io site using HTML.
 
 You should include links to each social networking site using icons. Make sure to have a header, footer, and navigation bar (as long as they fit into your design).
@@ -62,6 +61,8 @@ Don't forget about Chrome Devtools for testing out your style changes and figuri
 
 ## Release 3: Publish (5 minutes)
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
+
+Note that you should do this when you feel ready, that may be this week or sometime soon in phase-0. Do not feel rushed to put your website in the public eye before you are 70% proud of it. 70% because no one is ever finished with their website design and we want to have things to give you feedback for!
 
 ## Release 4: Reflect (10-15 minutes)
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
