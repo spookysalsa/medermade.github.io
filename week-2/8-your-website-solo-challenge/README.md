@@ -22,14 +22,16 @@ Included in the header of each release is a suggested number of pomodoro units t
 
 ## Releases
 
-## Release 0: Wireframes (1 pomodoro)
+## Release 0: Wireframes (10 minutes)
 Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
 
-While you're at it, you should also make basic wireframes for each of the other pages on your site including, but not limited to pages for:
+While you're at it, you should also sketch out the layout of the other pages on your site including, but not limited to pages for:
  - About me
  - Projects
  - blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html)
  - Any other page your site needs
+
+ This is not supposed to be perfect, it is only a thematic guide to help you when you start laying things out. This is not a model of how your site will look.
 
 ## Release 1: Design (1 pomodoro)
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
@@ -61,18 +63,8 @@ Don't forget about Chrome Devtools for testing out your style changes and figuri
 ## Release 3: Publish (5 minutes)
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
-## Release 4: Reflect
+## Release 4: Reflect (10-15 minutes)
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
-
-<!-- Separate Challenge -->
-## Release 6: Pseudo-Selectors (Optional)
-Want to dig a bit deeper into CSS? Maybe you're curious about using some exciting CSS like `:hover`. Take a look at:
-
-- [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
-- [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
-- [W3Schools CSS Psuedo-selectors](http://www.w3schools.com/css/css_pseudo_classes.asp)
-
-Implement `:hover` and other fun pseudo-selectors on your index.html page.
 
 ## Additional Resources:
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
