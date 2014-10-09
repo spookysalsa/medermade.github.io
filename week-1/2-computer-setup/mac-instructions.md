@@ -11,7 +11,7 @@ By the end of this lesson, you should be able to:
 ## Summary
 You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career!
 
-While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. There will be alternatives for Windows and Linux users.
+While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. 
 
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
@@ -118,6 +118,10 @@ You'll use this later in Phase 0.
 Type ```gem install rspec```
 
 This will install RSpec, a ruby testing framework.
+
+**Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.** 
+
+Go back to Release 9 and make sure you typed the second command to set your global version of Ruby. 
 
 ## Release 13: Install SQLite
 Type ```brew install SQLite3```
