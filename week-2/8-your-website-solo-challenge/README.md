@@ -5,7 +5,6 @@
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/) for more details as to what this entails.
 
 ## Learning Competencies
-- Use the 6 Phases of Web Design to build a website
 - Use wireframes to construct a website
 - Use HTML tags to present content on a website
 - Position HTML elements using CSS padding, borders, and margins
@@ -17,27 +16,47 @@ In this challenge, you will make your [USERNAME].github.io site using the princi
 
 Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week or unit if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version. Designing and building a site can take a **LONG TIME**, so just get your site "good enough" for your MVP. You can always make it better later!
 
+Pomodoro is a common and effective timeboxing and productivity technique that we can use in this exercise. Basically you do 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](http://www.moosti.com). Take a second and estimate how many units you want to work on each section, and see where you are by the end. Then you can decide if you want to continue adding more time. You will be improving your website as you go through the program. Don't burn out now!
+
 
 ## Releases
 
 ## Release 0: Wireframes
 Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
 
-While you're at it, you should also make basic wireframes for each of the other pages on your site including, but not limited to pages for:
+This page is required for you to create:
+
+blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html). This is where the links to blog posts will live.
+
+You do not have to create them during this challenge, but you should decide what will be in your MVP (Minimum Viable Product) and what you want to add in the future. This will change, but it's a good idea to have an end goal as well.
+
+ Some ideas to consider:
  - About me
  - Projects
- - blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html)
- - Any other page your site needs
+ - Cheat Sheets
+ - People you follow
+
 
 ## Release 1: Design
+
+Figure out what is acceptable to you for an MVP. Create some user stories as the creator of this website that you want to have and stick to these features. For example:
+
+As the site creator, I want to be able to showcase my blog posts from a central location.
+As the site creator, I want to demonstrate my current knowledge of HTML and CSS.
+
+and as a user:
+
+As a user, I want to be able to clearly read the content the site creator has written.
+As a user, I want to be able to navigate seamlessly from page to page.
+
+These are just examples, what do you want to create for you MVP?
+
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
-- [Web Design Inspiration](http://www.webdesign-inspiration.com/) Check this out if you want ideas!
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
-- [Logo Garden](http://www.graphicsprings.com/) to create your own logo
 
-You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidfy your design.
+You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidify your design.
 
 ## Release 2: Development
 
@@ -46,7 +65,7 @@ Using your wireframes and design as references, add content to your index.html (
 
 You should include links to each social networking site using icons. Make sure to have a header, footer, and navigation bar (as long as they fit into your design).
 
-Once you have all of the content on your index, you are ready to create the other required pages. Make sure the links on your index will actually take you to the other pages on your site! Don't forget to link to week 1's blog posts on your blog-posts index!
+Once you have all of the content on your index, you are ready to create the other required pages. Make sure the links on your index will actually take you to the other pages on your site! Don't forget to link to week 1's blog posts on your blog/index.html!
 
 
 #### Apply CSS
@@ -58,26 +77,16 @@ Now you can truly begin to appreciate CSS, which stands for Cascading Style Shee
 
 Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
 
-Reminder: Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
+REMINDER: Are you being true to your MVP or are you working on new features? Finish your core before you create new things.
 
 ## Release 3: Publish
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
-## Release 4: Review
-
-Take a look at two of your peers' sites and give them feedback using the issues on their github.io once you're finished. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
-
-## Release 5: Reflect
+## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
-## Release 6: Pseudo-Selectors (Optional)
-Want to dig a bit deeper into CSS? Maybe you're curious about using some exciting CSS like `:hover`. Take a look at:
-
-- [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
-- [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
-- [W3Schools CSS Psuedo-selectors](http://www.w3schools.com/css/css_pseudo_classes.asp)
-
-Implement `:hover` and other fun pseudo-selectors on your index.html page.
+## Release 5: Review (optional)
+Check out your peers websites and leave comments as issues. Search for them using the **#DBCmysite** hashtag!
 
 ## Additional Resources:
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)

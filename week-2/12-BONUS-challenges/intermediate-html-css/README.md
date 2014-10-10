@@ -25,7 +25,7 @@ Download these [practice files](http://girldevelopit.github.io/gdi-core-intermed
 - Add reset.css to your index.html file. What happens?
 - Update the header links to jump to sections
 - Make links change color on hover
-- Change the font for elements on the site. You can use @fontface or import fonts from other sites like [Google fonts](https://www.google.com/fonts)
+- Change the font for elements on the site. You can use `@fontface` or import fonts from other sites like [Google fonts](https://www.google.com/fonts)
 - Change some elements to semantic HTML5 elements (i.e. header, section, etc)
 
 ## Release 2: Reflect
@@ -34,21 +34,36 @@ Answer the above questions in your [my_reflection.md](my_reflection.md) file.
 ## Release 3: Commit and push your changes!
 Push your changes to your phase-0-unit-1 repository.
 
-## Release 4: Pseudo Elements (Optional)
-### a. Learn
-Helpful HTML/CSS resources:
+## Release 4: Pseudo Elements
 
-- [Overview of CSS fundamentals](http://learnlayout.com/no-layout.html)
+"A CSS pseudo-element is used to style specified parts of an element. For example, it can be used to: Style the first letter, or line, of an element. Insert content before, or after, the content of an element."
+
+Powerful css selectors that allow you to reduce the amount of javascript you will want to write to solve these problems.
+
+- [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
+- [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
+- [W3Schools CSS Psuedo-selectors](http://www.w3schools.com/css/css_pseudo_classes.asp)
 - [:before and :after psuedo
 elements](http://www.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/)
 - [Amazing things psuedo elements can
 do](http://css-tricks.com/pseudo-element-roundup/)
+
+## Release 5: Layout
+
+Layout is such an important part in making your website feel polished, and if you are trying to sell something, make money. Here are some great resources to review and learn about layout.
+
+- [Overview of CSS fundamentals](http://learnlayout.com/no-layout.html)
 - [All about floats!](http://css-tricks.com/all-about-floats/)
+- [Magic of CSS: layout](http://adamschwartz.co/magic-of-css/chapters/2-layout/)
+
+## Release 6: Icon Fonts
+
+Head to [FontAwesome](http://fontawesome.io/) and look around the
+documentation. Then prepare to add what you've learned to your website in your solo challenge.
+
+Icon Resources:
 - [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
 - [Why and How to use Icon
 Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)
 
-### b. Experiment
-Head to [FontAwesome](http://fontawesome.io/) and look around the
-documentation. Then prepare to add what you've learned to your website in your solo challenge.
 
