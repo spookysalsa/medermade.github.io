@@ -12,7 +12,7 @@ You may also be interested in getting the *Well-Grounded Rubyist* by David A. Bl
 
 ## Challenges:
 
-0. Read Chris Pine's Introduction p. xi - xv.
+####0. Read Chris Pine's Introduction p. xi - xv.
 1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
 2. [Variables and Methods](2-methods)
 3. [Flow Control](3-flow-control)
