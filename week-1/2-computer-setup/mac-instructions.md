@@ -126,7 +126,7 @@ Go back to Release 9 and make sure you typed the second command to set your glob
 ## Release 13: Install SQLite
 Type ```brew install SQLite3```
 
-To overwride your system copy of SQLite, we need to type an additional command:
+To overwrite your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
