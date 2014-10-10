@@ -25,7 +25,7 @@
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
 
-If you want to use a collaborative drawing site, you can use [flockdraw](http://flockdraw.com). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
+If you want to use a collaborative drawing site, you can use [flockdraw](http://flockdraw.com) (It's like a collaborative version of MSPaint). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
 
 You'll need sections for:
 - Title
@@ -41,7 +41,7 @@ Open a stypi file (only one person needs to do this) and name it with a `.html` 
 
 Based on your wireframe, add a skeleton for each section.
 
-Be sure to include a link to the phase-0-unit-1/week-2/8-gps1.1/gps.1.1.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
+Be sure to include a link to the phase-0-unit-1/week-2/9-gps1-2/gps1-2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
 
 
 ## Release 2: Discuss Pair Programming
@@ -64,7 +64,7 @@ and running them together from your computer.
 Commit and push your changes onto the phase-0-unit-1 repository.
 
 ## Release 6: Publish
-Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME]github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying properly. Then add a link on the index of your site to make sure people can find it!
+Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME].github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying properly. Then add a link on the index of your site to make sure people can find it!
 
 ## Release 7: Give Feedback
 Don't forget to give [feedback](https://socrates.devbootcamp.com/feedback/new) to your pair!
