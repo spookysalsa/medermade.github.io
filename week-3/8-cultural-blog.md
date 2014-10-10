@@ -8,7 +8,7 @@
 - Formulate ways to expand the ways you learn and think
 
 ## Release 0: Copy your Blog Template
-In your [USERNAME].github.io/blog directory, copy your blog tempate into a new HTML file named `c3_thinking-style.html`.
+In your [USERNAME].github.io/blog directory, copy your blog tempate into a new HTML file named `c3_thinking-style.html`. (Note: the number corresponds to the week rather than the actual assignment).
 
 ## Release 1: Research
 
