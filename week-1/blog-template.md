@@ -8,12 +8,13 @@
 
   For now, please replace the title, subtitle (if desired),
   and date with the text you would like. Markdown is pretty
-  simple, so you can just feel free to type. =) -->
+  simple, so you can just feel free to type. =) You'll want
+  to delete this chunk of a comment as well. -->
 
 
-# Title
-#### Subtitle
-#### Date
+Title
+Subtitle
+Date
 
 Paragraph 1
 
