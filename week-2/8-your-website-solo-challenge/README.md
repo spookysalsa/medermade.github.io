@@ -28,7 +28,7 @@ This page is required for you to create:
 
 blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html). This is where the links to blog posts will live.
 
-Will your site need any other pages? You do not have to create them this session but you should decide what will be in your MVP and what will be done in the future.
+You do not have to create them during this challenge, but you should decide what will be in your MVP (Minimum Viable Product) and what you want to add in the future. This will change, but it's a good idea to have an end goal as well.
 
  Some ideas to consider:
  - About me
@@ -77,11 +77,16 @@ Now you can truly begin to appreciate CSS, which stands for Cascading Style Shee
 
 Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
 
+REMINDER: Are you being true to your MVP or are you working on new features? Finish your core before you create new things.
+
 ## Release 3: Publish
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
 ## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
+
+## Release 5: Review (optional)
+Check out your peers websites and leave comments as issues. Search for them using the **#DBCmysite** hashtag!
 
 ## Additional Resources:
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
