@@ -20,6 +20,8 @@ The factorial of `0` is defined to be `1`.
 
 See [the Wikipedia article on the factorial](http://en.wikipedia.org/wiki/Factorial) for more information.
 
+Do not use recursion for this method unless you understand recursion already. We don't cover recursion in Phase 0 and there are ways to solve the problem without it. Recursion is a much better topic for when you are on site.
+
 ## Releases
 
 ## Release 0: Pseudocode
