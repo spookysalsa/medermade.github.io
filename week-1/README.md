@@ -21,6 +21,8 @@ When you have questions about the instructions or how to do something, are confu
 #### 11. [Cultural Blog](11-cultural-blog.md)
 #### 12. [Self Introduction](12-self-introduction.md)
 
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
 - The week's work is due each Sunday be 11:59pm.
