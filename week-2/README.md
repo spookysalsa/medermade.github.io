@@ -28,6 +28,8 @@ Please keep track of the time you are spending on the mandatory sections of the 
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W2.** Only other DBC students can actually see your repositories because they are private.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
 - The week's work is due each Sunday be 11:59pm.
