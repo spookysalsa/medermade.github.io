@@ -11,16 +11,10 @@
   - Examine pair-programming concepts
 
 ## Summary
-  Welcome to your first Guided Pairing Session (GPS!)
-  We are excited to have you in Phase 0 and to work with
-  you to get you prepared for an exciting time at DBC.
+Welcome to your second Guided Pairing Session (GPS!)
 
-  This GPS is designed to help you examine pair programming and the roles of driver and
-  navigator. Your goal is to design and build a single-page website that
-  introduces the concept of pair programming!
-
-  **Since this is your first pairing session, it is important
-  to have a good check-in (so don't forget!).**
+This GPS is designed to help you examine pair programming and the roles of driver and navigator. Your goal is to design and build a single-page website that
+introduces the concept of pair programming! You've had a bit of experience with programming, but it's a good time to solidify your understanding of it and practice!
 
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
@@ -55,7 +49,7 @@ Discuss the following topics, and add content for each section in the skeleton. 
 Use CSS to make it look nice. Include pictures, outside fonts, etc. You will need to add CSS inside the `<style>` tags because stypi won't accept an actual link to an external stylesheet. This isn't good practice though. Why do you think it's not good practice?
 
 ## Release 4: Reflect
-What was it like to pair for the first time? Did you enjoy it? What worked? What didn't work? Add your reflection to your page and style it as well.
+What was it like to pair in this session? Did you enjoy it? What was different from your first session? What worked? What didn't work? Add your reflection to your page and style it as well.
 
 ## Release 5: Copy, commit, and push
 When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them
