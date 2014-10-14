@@ -8,6 +8,8 @@ Setting up your computer can be tricky, and there are specific technologies we w
 
 Please go through these instructions even if you already set up your machine just to check you have everything.
 
+NOTE: These instructions assume you have a "clean" environment and don't have anything funky going on in your system. It should go smoothly if you have a clean system, but it may take significantly more time if you don't have a clean place to start from. Also, some of the commands will change the way your terminal/sublime look, so be prepared for that. You can always change it back. if you would prefer. 
+
 - [Linux](linux-instructions.md)
 - [Mac](mac-instructions.md)
 - [Windows](windows-instructions.md)
