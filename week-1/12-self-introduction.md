@@ -28,7 +28,7 @@ Each cohort has it's own email list visible on the cohort webpage. Email that li
 - What you are most excited to learn about
 - What you learned by reading [NAME]'s reflection
 - When the best time for you to pair is
-- Links to your 1) orked `phase-0-unit-1` repository and your [USERNAME].github.io site
+- Links to your 1) forked `phase-0-unit-1` repository and your [USERNAME].github.io site
 
 Send your email!
 
@@ -36,7 +36,7 @@ Send your email!
 **DOUBLE CHECK THAT YOU HAVE ISSUES ENABLED AS A FEATURE ON BOTH OF YOUR REPOSITORIES**
 
 ## Release 3: Review One more
-After you start getting responses, select another person's repository to view.
+After you start seeing other student's self introductions, select another person's repository to view (they should have included a link in their email).
 
 Leave feedback for the second person using the "Issues" feature on Github. Use the ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
