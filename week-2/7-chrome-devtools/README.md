@@ -22,7 +22,7 @@ Use the following resources to acquaint yourself with Chrome's DevTools.
   - Chapter 1: Getting Started & Basic DOM and Styles
   - Chapter 2: Advanced DOM and Styles
 
-Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them (they appear on the right of your Code School profile page). Add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
+Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them (the points appear on your report card, which you can navigate to by clicking the dropdown menu in the top right corner of the page). Add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
 
 ## Release 2: Practice
 First, find the tab that supports realtime editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will certainly save you time.
