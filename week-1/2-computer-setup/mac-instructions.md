@@ -61,7 +61,7 @@ git clone https://github.com/supertopher/dotfiles.git
 cd dotfiles
 ./install
 ```
-*Note* This will change how your current terminal will appear. Check your .bash_profile to see what we changed!
+**Note** This will change how your current terminal will appear. Check your .bash_profile to see what we changed!
 
 Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
 
