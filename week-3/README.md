@@ -1,14 +1,14 @@
 # Week 3: Introduction to Ruby
 
-Week 3's material is not ready yet!
+<!-- Week 3's material is not ready yet!
 
-We will release it with changes at least by the Friday before the week begins.
+We will release it with changes at least by the Friday before the week begins. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
 
-You may also be interested in getting the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](10-BONUS-challenges/Well-Grounded-Rubyist.md) for information on purchasing the book at a discount.
+We also highly, highly recommend getting the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](10-BONUS-challenges/Well-Grounded-Rubyist.md) for information on purchasing the book at a discount. While you are in the market for books, you may also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
 
 ## Challenges:
 
@@ -38,6 +38,6 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
 
 ## Remember your Unit Expectations!
-- Pair at least twice this week.  *You need to pair 4 times on your own this unit*
+- Pair at least twice this week. *You need to pair 4 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 6 pieces of feedback in this unit*
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit* -->
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
