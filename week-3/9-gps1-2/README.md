@@ -19,8 +19,7 @@
   navigator. Your goal is to design and build a single-page website that
   introduces the concept of pair programming!
 
-  **Since this is your first pairing session, it is important
-  to have a good check-in (so don't forget!).**
+  **Don't for to check in!**
 
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
