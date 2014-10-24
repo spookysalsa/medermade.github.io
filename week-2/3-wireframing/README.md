@@ -42,7 +42,7 @@ You should have a header,footer, and navigation bar on your site.
 
 You will be using this site to promote yourself when you finish Dev Bootcamp, so make sure it has a spot for the following:
 
-  - Links to your social networks (Twitter, facebook, linked-in, quora, github etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add)
+  - Links to your social networks (Twitter, facebook, linked-in, quora, GitHub etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add)
   - Your picture
   - Your contact information
   - Link to your blog

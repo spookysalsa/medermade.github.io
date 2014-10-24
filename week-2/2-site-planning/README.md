@@ -32,7 +32,7 @@ In this unit, you'll be creating your own Phase 0 website where you'll post your
 
 You'll definitely want to include:
 
- - Links to your social networks (Twitter, facebook, linked-in, quora, github etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add as well)
+ - Links to your social networks (Twitter, facebook, linked-in, quora, GitHub etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add as well)
   - Your picture
   - Your contact information
   - Link to your blog

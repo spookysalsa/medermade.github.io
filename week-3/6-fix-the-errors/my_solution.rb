@@ -8,7 +8,7 @@
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -23,12 +23,12 @@ end
 
 # (1) what is the name of the file with the error?
 #
-# (2) what is the line number where the error occurs? 
-# HINT: The line number is deceiving with this one. 
+# (2) what is the line number where the error occurs?
+# HINT: The line number is deceiving with this one.
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -43,7 +43,7 @@ south_park
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -58,7 +58,7 @@ cartman()
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -77,7 +77,7 @@ cartmans_phrase('I hate Kyle')
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -96,7 +96,7 @@ cartman_says
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -118,7 +118,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -134,7 +134,7 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -149,7 +149,7 @@ amount_of_kfc_left = 20/0
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #
@@ -164,7 +164,7 @@ require_relative "cartmans_essay.md"
 #
 # (3) what is the error message?
 #
-# (4) what is ruby telling you is causing the error?
+# (4) what is Ruby telling you is causing the error?
 #
 # (5) what is the 'type' of the error?
 #

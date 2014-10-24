@@ -1,4 +1,4 @@
-# Week 1: Git, Github, and the Command Line
+# Week 1: Git, GitHub, and the Command Line
 
 **Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've completed the [Phase 0 prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) **before** getting started with the weekly challenges.
 
@@ -11,7 +11,7 @@ When you have questions about the instructions or how to do something, are confu
 #### 1. [The Command Line](1-command-line)
 #### 2. [Computer Setup](2-computer-setup)
 #### 3. [Think about time](3-think-about-time)
-#### 4. [Github Intro](4-github-intro)
+#### 4. [GitHub Intro](4-github-intro)
 #### 5. [Forking and Cloning](5-fork-clone)
 #### 6. [Tracking Changes](6-tracking-changes)
 #### 7. [Setting Remotes](7-set-remotes)

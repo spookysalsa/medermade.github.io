@@ -4,8 +4,8 @@
 
 ## Learning Competencies
 - Identify the basics of the Ruby language
-- Describe objects in ruby
-- Explain how arguments and parameters work in ruby
+- Describe objects in Ruby
+- Explain how arguments and parameters work in Ruby
 - Identify and explain how to iterate through collections
 - Compare data structures
 
@@ -25,7 +25,7 @@ NOTE: Chapter numbers are based on the 2nd edition of the book.
 ## Releases
 
 ## Release 0: Bootstrapping your Ruby Literacy
-Read chapter 1 on bootstrapping your ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts.
+Read chapter 1 on bootstrapping your Ruby literacy. There are some complex concepts with regard to installation and extensions, but it's good to have a basic grasp of these concepts.
 
 The book is not as readable as Chris Pine's, but it has a lot more information so be patient and work through it.
 

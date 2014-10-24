@@ -1,6 +1,6 @@
-## 2. Github Introduction Reflection
+## 2. GitHub Introduction Reflection
 
-### From Github Introduction Challenge
+### From GitHub Introduction Challenge
 
 - Write an explanation of and compare git and GitHub to a non-technical audience.
 - Describe what version control is and how GitHub helps with it.

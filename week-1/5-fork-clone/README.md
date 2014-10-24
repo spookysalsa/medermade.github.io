@@ -37,7 +37,7 @@ Go to the repository settings, located on the bottom right of the right navigati
 
 Now you have your own fork of the curriculum on github.com just waiting to be modified. It's time to bring it to your computer so you can add your work. Clone your **forked** repo using the instructions from the video.
 
-Delete your local copy (using the command line) and clone it again. Get familiar with the commands and the steps to get a file from github to your computer.
+Delete your local copy (using the command line) and clone it again. Get familiar with the commands and the steps to get a file from GitHub to your computer.
 
 Now that you have your own fork and a local copy of the files to work with, you can share your knowledge with the world. Find someone/thing that will listen to you for 10 minutes and teach them how to fork and clone a repo. Wouldn't it be great if your dog could do this for you?
 
