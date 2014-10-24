@@ -53,7 +53,7 @@ These are just examples, what do you want to create for you MVP?
 
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
-- [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
+- [Adobe Color CC](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
 
 You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidify your design.

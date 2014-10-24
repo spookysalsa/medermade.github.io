@@ -91,14 +91,14 @@ Now you have Rbenv! Sweet!
 ## Release 8: Install Ruby Build
 Type: ```brew install ruby-build```
 
-Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
+Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of Ruby on your machine?)
 
 **NOTE:** If you are using RVM instead of rbenv, you will not need to install ruby-build.
 
 ## Release 9: Install Ruby 2.0.0
 Type: ```rbenv install 2.0.0-p481```
 
-Now, you need to set the default ruby in your computer to the ruby we just installed.
+Now, you need to set the default Ruby in your computer to the Ruby we just installed.
 
 Type: ``` rbenv global 2.0.0-p481```
 
@@ -119,7 +119,7 @@ You'll use this later in Phase 0.
 ## Release 12: Install Rspec
 Type ```gem install rspec```
 
-This will install RSpec, a ruby testing framework.
+This will install RSpec, a Ruby testing framework.
 
 **Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.**
 
