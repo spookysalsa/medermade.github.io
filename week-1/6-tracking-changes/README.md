@@ -75,7 +75,7 @@ Since you've been working on the master branch this entire time, it's easy to pu
 
 `git push origin master`
 
-`origin` refers to the repository on your local machine, and `master` is the remote branch you want to push to.
+`origin` refers to the remote location (in this case your repository on Github), and `master` is the branch you want to push to.
 
 Go to your fork on GitHub to see your changes live!
 
