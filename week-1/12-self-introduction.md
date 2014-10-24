@@ -41,14 +41,14 @@ After you start seeing other student's self introductions, select another person
 Leave feedback for the second person using the "Issues" feature on GitHub. Use the ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
 ## Release 4: Check in with your accountability group
-Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. You will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, in person, or email. You will also get the chance to work with them on group chalelnges in later units, so it's important to start building a relationship early. You may want to start a code review process within your accountability group as well.
+Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. You will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, in person, or email. You will also get the chance to work with them on group challenges in later units, so it's important to start building relationships early. You may want to start a code review process within your accountability group as well.
 
 Now that you've introduced yourself to your cohort, it's time to get to know your accountability group. You should have a link to your accountability groups in your Google+ Community. Contact the people in your accountability group via email with the following information:
 
 - Which challenge confused you the most this week
 - Which concepts you found most interesting
 - The city you currently live in
-- Your preferred way of connecting with the group each week (hangout, email, in person, if possible.)
+- Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
 
 ## Release 5: Celebrate!
 You made it through Week 1! How do you feel! Feel free to share your thoughts on twitter using the hashtag **#DBCU1W1** so your cohort mates can easily find your tweets. If you want to tell us how you're feeling, tweet @devbootcamp too.
