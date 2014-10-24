@@ -38,7 +38,7 @@ Switch driver and navigator roles, now the other partner will make modifications
 
 What is the difference between fetch/merge and pull?
 
-Make a new branch, we will make some changes to awesome_page.md. Show off some of your [markdown](http://daringfireball.net/projects/markdown/syntax) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to github.
+Make a new branch, we will make some changes to awesome_page.md. Show off some of your [markdown](http://daringfireball.net/projects/markdown/syntax) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
 
 Make a pull request like last time. The navigator should review the diff of the request and merge it. You will be using this work flow all the time as a developer!
 

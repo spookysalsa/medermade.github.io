@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Define local variables and methods
-- Run a ruby program from the command line
+- Run a Ruby program from the command line
 
 ## Summary
 Now is your chance to put what you've learned together!
@@ -65,7 +65,7 @@ In the next few exercises, we will be asking you to "wrap" logic into a method.
 Now's your chance to practice! Complete the [Define an Empty Method](../challenges/4-defining-method) challenge.
 
 ## Release 3: Read Ch. 6: More About Methods
-Read through the entire chapter to get a better feel for the built-in methods ruby has. (There are a LOT more, by the way).
+Read through the entire chapter to get a better feel for the built-in methods Ruby has. (There are a LOT more, by the way).
 
 ## Release 4: More small challenges!
 Now you'll want to expand your brain a bit by working on the following challenges.

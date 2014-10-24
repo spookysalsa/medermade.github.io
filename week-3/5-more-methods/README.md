@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Define local variables and methods
-- Run ruby programs from the command line
+- Run Ruby programs from the command line
 - Use conditionals (if/elsif/else)
 - Iterate over arrays
 - Apply string, array, hash, and/or enumerable methods

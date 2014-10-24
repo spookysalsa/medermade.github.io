@@ -30,4 +30,4 @@ In this exercise, you'll be flexing your design muscles and creating a mood boar
 You can make your mood board in a variety of ways: Google Docs, word processing software, or Adobe Photoshop, just to name a few.
 
 ## Release 2: Share!
-Upload your Mood Board to Github, then share it on Twitter with **#DBCmoodboard**! Be sure to explain your choices and how they inspire you.
+Upload your Mood Board to GitHub, then share it on Twitter with **#DBCmoodboard**! Be sure to explain your choices and how they inspire you.

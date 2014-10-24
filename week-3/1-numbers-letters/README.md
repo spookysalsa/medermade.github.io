@@ -16,7 +16,7 @@ In this challenge you will go through basic mathematical operations.
 ## Releases
 
 ## Release 0: Read Ch. 2: Numbers
-You may want to save everything in Sublime, or you can go in to your terminal and use the ruby REPL. REPL stands for read-eval-print-loop. The ruby REPL is called IRB (<b>I</b>nteractive <b>R</b>u<b>b</b>y. You can access irb by typing `irb` in the console (suprise!). You can use irb as a sandbox to test methods and run your code.
+You may want to save everything in Sublime, or you can go in to your terminal and use the Ruby REPL. REPL stands for read-eval-print-loop. The Ruby REPL is called IRB (<b>I</b>nteractive <b>R</b>u<b>b</b>y. You can access irb by typing `irb` in the console (suprise!). You can use irb as a sandbox to test methods and run your code.
 
 For example
 
@@ -35,7 +35,7 @@ If you want to work in sublime, you can write your code in a file with the .rb e
 Go to the [my_solution.md](my_solution.md) file associated with this challenge. Go to the numbers section and answer the questions in the "summary" section.
 
 ## Release 2: Try it!
-In section 2.5, Pine provides two great mini-challenges. Create these two programs and paste your code into the ruby section in your [my_solution.md](my_solution.md) file.
+In section 2.5, Pine provides two great mini-challenges. Create these two programs and paste your code into the Ruby section in your [my_solution.md](my_solution.md) file.
 
 **Mini-challenges**
 Write a program that calculates and outputs the:

@@ -35,7 +35,7 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 - When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
 
 ## Working through the challenges
-Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
+Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
 
 ## Remember your Unit Expectations!
 - Pair at least twice this week. *You need to pair 4 times on your own this unit*

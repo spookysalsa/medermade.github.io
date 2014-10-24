@@ -17,7 +17,7 @@ Read through this chapter. Pine wrote some good exercises here that definitely g
 ## Release 1: Challenges
 Now you get to demonstrate your understanding of these concepts by working on some challenges that require flow control. They might take you outside of your comfort zone, and that's ok. You should also feel free to pair on these. Pairing is an awesome way to learn what you know and ask questions about what you don't know yet.
 
-Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if you google a class like "ruby 2.0 string") to find the right documentation. Skim the available methods on the left and then look at the method itself. These are powerful methods that will help you with some of these challenges.
+Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if you google a class like "Ruby 2.0 string") to find the right documentation. Skim the available methods on the left and then look at the method itself. These are powerful methods that will help you with some of these challenges.
 
 - [Good Guess](../challenges/7-good-guess)
 - [Calculate a Letter Grade](../challenges/8-calculate-grade)

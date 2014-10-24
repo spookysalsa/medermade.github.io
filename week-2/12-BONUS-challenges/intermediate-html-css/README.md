@@ -38,7 +38,7 @@ Push your changes to your phase-0-unit-1 repository.
 
 "A CSS pseudo-element is used to style specified parts of an element. For example, it can be used to: Style the first letter, or line, of an element. Insert content before, or after, the content of an element."
 
-Powerful css selectors that allow you to reduce the amount of javascript you will want to write to solve these problems.
+Powerful css selectors that allow you to reduce the amount of JavaScript you will want to write to solve these problems.
 
 - [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
 - [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
