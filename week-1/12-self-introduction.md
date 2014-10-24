@@ -50,8 +50,8 @@ Now that you've introduced yourself to your cohort, it's time to get to know you
 - The city you currently live in
 - Your preferred way of connecting with the group each week (hangout, email, in person, if possible).
 
-## Release 5: Celebrate!
-You made it through Week 1! How do you feel! Feel free to share your thoughts on twitter using the hashtag **#DBCU1W1** so your cohort mates can easily find your tweets. If you want to tell us how you're feeling, tweet @devbootcamp too.
+## Release 5: Celebrate
+You made it through Week 1! How do you feel? Feel free to share your thoughts on twitter using the hashtag **#DBCU1W1** so your cohort mates can easily find your tweets. If you want to tell us how you're feeling, tweet @devbootcamp too.
 
 ## Release 6: Submit your work
 Don't forget that you need to complete your submission form on <http://apply.devbootcamp.com> to turn in your work and give us feedback! Way to go on making it through the first week!
