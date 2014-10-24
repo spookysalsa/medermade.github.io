@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
-- Apply basic ruby methods to variables
+- Apply basic Ruby methods to variables
 
 ## Summary
 Define four methods which correspond to the four basic arithmetic operations:

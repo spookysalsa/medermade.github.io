@@ -5,7 +5,7 @@
 ## Learning Competencies
 - Define local variables and methods
 - Use conditional statements
-- Apply basic ruby methods to variables
+- Apply basic Ruby methods to variables
 
 ## Summary
 Create a method `get_grade` that accepts an average in the class and returns the letter grade as a `String`.

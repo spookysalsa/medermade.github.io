@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Define a method that accepts and uses arguments
-- Apply basic ruby methods to variables
+- Apply basic Ruby methods to variables
 
 ## Summary
 Write a method `valid_triangle?` which takes as its input three non-negative numbers.  It should return `true` if the three numbers could form the side lengths of a triangle and `false` otherwise.

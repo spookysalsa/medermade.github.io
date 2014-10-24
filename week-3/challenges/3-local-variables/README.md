@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Define local variables and methods
-- Apply basic ruby methods to variables
+- Apply basic Ruby methods to variables
 
 ## Summary
 Create two integer variables called `num1` and `num2` and assign them your favorite numbers.

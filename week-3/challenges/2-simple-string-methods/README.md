@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Create local variables
-- Apply basic ruby methods to variables
+- Apply basic Ruby methods to variables
 
 ## Summary
 Create a `String` variable called `old_string` and assign it the value `"Ruby is cool"`.
