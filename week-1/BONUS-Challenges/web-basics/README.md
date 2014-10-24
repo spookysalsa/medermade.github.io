@@ -7,7 +7,7 @@
 - Create an HTML file
 
 ## Summary
-So far, you've learned a bit about git and github, and are hopefully getting comfortable navigating your command line and making basic changes to files. You'll be getting a lot of practice with that in the coming weeks. We did not cover, however, any of the background knowledge that will be vital to understanding web applications. The information below includes vocabulary you'll want to know early in your career as a web developer. You may forget some of this now, but it's good to get some exposure to these concepts early.
+So far, you've learned a bit about git and GitHub, and are hopefully getting comfortable navigating your command line and making basic changes to files. You'll be getting a lot of practice with that in the coming weeks. We did not cover, however, any of the background knowledge that will be vital to understanding web applications. The information below includes vocabulary you'll want to know early in your career as a web developer. You may forget some of this now, but it's good to get some exposure to these concepts early.
 
 ## Releases
 

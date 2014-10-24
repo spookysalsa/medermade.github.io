@@ -11,7 +11,7 @@ By the end of this lesson, you should be able to:
 ## Summary
 You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career!
 
-While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. 
+While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac.
 
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
@@ -54,7 +54,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 It will prompt you for your password - so be ready to type it in.
 
 ## Release 4: Set up your Path
-First you need to clone this github repository into your computer and install the files. Type each line separately:
+First you need to clone this GitHub repository into your computer and install the files. Type each line separately:
 
 ```shell
 git clone https://github.com/supertopher/dotfiles.git
@@ -66,14 +66,14 @@ cd dotfiles
 Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
 
 ## Release 5: Configure Git
-You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your Github email address in the following format:
+You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your GitHub email address in the following format:
 
 ```shell
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Now make sublime text your preferred editor for git:
+Now make Sublime text your preferred editor for git:
 ```shell
 git config --global core.editor "subl -w"
 ```
@@ -121,9 +121,9 @@ Type ```gem install rspec```
 
 This will install RSpec, a ruby testing framework.
 
-**Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.** 
+**Important note: You should NEVER need to `sudo gem install ___` anything. If you get a permission issue, that means your system isn't using the rbenv/rvm version of rubygems.**
 
-Go back to Release 9 and make sure you typed the second command to set your global version of Ruby. 
+Go back to Release 9 and make sure you typed the second command to set your global version of Ruby.
 
 ## Release 13: Install SQLite
 Type ```brew install SQLite3```

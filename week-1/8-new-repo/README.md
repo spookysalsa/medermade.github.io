@@ -83,7 +83,7 @@ Now you will create a temporary index for your personal website. We will be usin
 
 ## Release 4: Commit and Push
 
-Using your github skills, add the file to the stage, commit your changes, and push it to Github.
+Using your git skills, add the file to the stage, commit your changes, and push it to GitHub.
 
 After your push is done, your remote repo which lives on github.com will be updated.
 Go to **http://[USERNAME].github.io** to see your HTML page live!
