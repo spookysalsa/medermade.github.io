@@ -49,7 +49,7 @@ Read the following sections to solidify other concepts covered this week:
 ## Release 3: Summarize (Optional)
 This book can be very seductive by making you think you fully understand concepts because it explains things so well. However, you may find that just reading will not help you fully use the concepts you just read about. It may help you to solidify concepts by writing (or making a video) to teach others about one or two (or more) concepts you learned about using your own examples.
 
-You may also take this opportunity to write a blog post about what you learned. Name this blog `ruby-foundamentals.html`. Make sure its findable from the blog index!
+You may also take this opportunity to write a blog post about what you learned. Name this blog `ruby-fundamentals.html`. Make sure its findable from the blog index!
 
 ## Release 4: Publish (Optional)
 Publish your blog on your [USERNAME].github.io. Make sure to link to it from your index! Then tweet about your awesome blog using **#DBCRubyBasics**. If you are particularly proud of your blog, you may want to tweet it @david_a_black as well! He may even respond!
