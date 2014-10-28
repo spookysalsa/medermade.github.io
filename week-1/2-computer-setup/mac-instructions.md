@@ -22,7 +22,7 @@ Download and follow instructions from [their site](http://www.sublimetext.com).
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
 ## Release 1: Your Operating System
-If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks (10.9) and Yosemite (10.10) will both work for phase 0.
+If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks (10.9) and Yosemite (10.10) will both work for Phase 0.
 
 Before installing, it's always good practice to backup your hard drive so you don't lose anything!
 
