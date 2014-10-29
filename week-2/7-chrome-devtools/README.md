@@ -32,7 +32,7 @@ Load the [css-positioning.html](css-positioning.html) in your browser and open t
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
 - Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box!
-  ![background-color](../imgs/devtools-color.png)
+  ![background-color](../../imgs/devtools-color.png)
 - Put the boxes in a row.
 - Make the boxes have equal distance between them.
 - Move all the boxes into one column.
