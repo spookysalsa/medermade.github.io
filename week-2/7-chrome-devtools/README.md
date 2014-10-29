@@ -38,8 +38,14 @@ Then, complete each of the following. You will need to take a screenshot when yo
 - Make the boxes have equal distance between them.
 ![equal distance](../imgs/devtools-equal.png)
 - Move all the boxes into one column.
+
+
 ![column](../imgs/devtools-column.png)
+
+
 - Resize the boxes so they are 30% of their original size.
+
+
 ![30% column](../imgs/devtools-30column.png)
 - Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
 ![static bottom](../imgs/devtools-staticbottom.png)
