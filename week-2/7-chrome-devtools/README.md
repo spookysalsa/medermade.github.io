@@ -31,15 +31,22 @@ Load the [css-positioning.html](css-positioning.html) in your browser and open t
 
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
-- Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box!
+- Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! I picked three random colors.
   ![background-color](../imgs/devtools-colors.png)
 - Put the boxes in a row.
+  ![row](../imgs/devtools-row.jpg)
 - Make the boxes have equal distance between them.
+  ![equal distance](../imgs/devtools-equal.png)
 - Move all the boxes into one column.
+  ![column](../imgs/devtools-column.png)
 - Resize the boxes so they are 30% of their original size.
+  ![30% column](../imgs/devtools-30column.png)
 - Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
+  ![static bottom](../imgs/devtools-staticbottom.png)
 - Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
+  ![top](../imgs/devtools-staticheader.png)
 - Move the relative div position to the right so it's like a right sidebar.
+  ![sidebar](../imgs/devtools-sidebar.png)
 - Design your own configuration that uses margin, border, and padding. Explain the differences and how to use each to yourself.
 - Make a configuration that uses block and inline-block to see what the differences are.
 
