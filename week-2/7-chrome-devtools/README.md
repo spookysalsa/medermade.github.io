@@ -34,7 +34,7 @@ Then, complete each of the following. You will need to take a screenshot when yo
 - Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! I picked three random colors.
 ![background-color](../imgs/devtools-colors.png)
 - Put the boxes in a row.
-![row](../imgs/devtools-row.jpg)
+![row](../imgs/devtools-row.png)
 - Make the boxes have equal distance between them.
 ![equal distance](../imgs/devtools-equal.png)
 - Move all the boxes into one column.
