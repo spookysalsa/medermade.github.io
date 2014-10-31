@@ -31,9 +31,9 @@ When you have questions about the instructions or how to do something, are confu
 
 
 ## Remember your Unit Expectations!
-- Give feedback for each person you paired with, if any. You need to submit at least 6 pieces of feedback in this unit. (4 for peer pairing, and 2 for GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit)
-- Sign up for GPS 1.1 and 1.2 on our [scheduling app](https://phase0.devbootcamp.com/login) (These must be done in a session with a guide, and there are only enough sessions for students to attend one, so make sure you sign up early!)
+- Give feedback for each person you paired with, if any. You need to submit at least 6 pieces of feedback in this unit. (4 for peer pairing, and 2 for GPS).
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit).
+- Sign up for GPS 1.1 and 1.2 on our [scheduling app](https://phase0.devbootcamp.com/login). (These must be done in a session with a guide, and there are only enough sessions for students to attend one, so make sure you sign up early!)
 
 
 ### How to navigate this repository
