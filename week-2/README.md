@@ -1,10 +1,10 @@
 # Week 2: HTML and CSS
 
-Week 2's material is not ready yet!
+<!-- Week 2's material is not ready yet!
 
-We will release it with changes at least by the Friday before week 2 begins.
+We will release it with changes at least by the Friday before week 2 begins. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
@@ -23,13 +23,14 @@ Please keep track of the time you are spending on the mandatory sections of the 
 8. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
 9. [Testing and Maintenance](9-testing-and-maintenance)
 10. [Technical Blog](10-technical-blog.md)
-11. [GPS 1.1](11-gps1-1) **Do not look at this until your pairing session**
-12. [BONUS challenges](12-BONUS-challenges)
+11. [Accountability Groups](11-accountability-groups.md)
+12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
+13. [BONUS challenges](13-BONUS-challenges)
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday be 11:59pm.
 
 **If you do not finish by the deadline:**
@@ -42,4 +43,4 @@ Once you have the entire local repository on your computer, you don't need to re
 ## Remember your Unit Expectations!
 - Pair at least twice this week.  *You need to pair 4 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 6 pieces of feedback in this unit*
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit* -->
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*

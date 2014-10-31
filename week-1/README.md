@@ -22,7 +22,7 @@ When you have questions about the instructions or how to do something, are confu
 #### 12. [Self Introduction](12-self-introduction.md)
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday be 11:59pm.
 
 **If you do not finish by the deadline:**

@@ -27,7 +27,7 @@ We also highly, highly recommend getting the *Well-Grounded Rubyist* by David A.
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday be 11:59pm.
 
 **If you do not finish by the deadline:**
