@@ -18,6 +18,8 @@ factorial(5) == 5 * 4 * 3 * 2 * 1 == 120
 
 The factorial of `0` is defined to be `1`.
 
+You should not use recursion for this problem. Recursion is covered on site. Try it a different way. 
+
 See [the Wikipedia article on the factorial](http://en.wikipedia.org/wiki/Factorial) for more information.
 
 ## Releases
