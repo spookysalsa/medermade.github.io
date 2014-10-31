@@ -27,11 +27,13 @@ Please keep track of the time you are spending on the mandatory sections of the 
 12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
 13. [BONUS challenges](13-BONUS-challenges)
 
+If you want to request feedback from your peers, tweet on Twitter using the hashtag #DBCU1W2. Only other DBC students can see your repositories because they are private.
+
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
-- The week's work is due each Sunday be 11:59pm.
+- The week's work is due each Sunday by 11:59pm.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 1 extension request. (You only get one extension for Unit 1)

@@ -26,9 +26,11 @@ We also highly, highly recommend getting the *Well-Grounded Rubyist* by David A.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
+If you want to request feedback from your peers, tweet on Twitter using the hashtag #DBCU1W3. Only other DBC students can see your repositories because they are private.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
-- The week's work is due each Sunday be 11:59pm.
+- The week's work is due each Sunday by 11:59pm.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 1 extension request. (You only get one extension for Unit 1)
