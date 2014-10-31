@@ -34,6 +34,8 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 
 You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidify your design.
 
+Again, don't get bogged down trying to make your site perfect. Make it acceptable. You should make it a goal to revisit your site each week to add to it.
+
 ## Release 2: Development
 
 #### Add Content using HTML
