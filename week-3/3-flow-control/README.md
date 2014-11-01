@@ -19,11 +19,11 @@ Now you get to demonstrate your understanding of these concepts by working on so
 
 Note: Reference the [Ruby Docs](http://ruby-doc.org/core-2.0.0/) (It's easier if you google a class like "Ruby 2.0 string") to find the right documentation. Skim the available methods on the left and then look at the method itself. These are powerful methods that will help you with some of these challenges.
 
-- [Good Guess](../challenges/7-good-guess)
-- [Calculate a Letter Grade](../challenges/8-calculate-grade)
-- [Triangle Side Lengths](../challenges/9-triangle-side)
-- [Detecting Leap Years](../challenges/10-leap-years)
-- [Detecting Simple Substrings](../challenges/11-simple-substrings)
+- [Good Guess](../exercises/7-good-guess)
+- [Calculate a Letter Grade](../exercises/8-calculate-grade)
+- [Triangle Side Lengths](../exercises/9-triangle-side)
+- [Detecting Leap Years](../exercises/10-leap-years)
+- [Detecting Simple Substrings](../exercises/11-simple-substrings)
 
 ## Release 2: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.

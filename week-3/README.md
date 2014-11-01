@@ -11,18 +11,20 @@ You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http
 We also highly, highly recommend getting the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](10-BONUS-challenges/Well-Grounded-Rubyist.md) for information on purchasing the book at a discount. While you are in the market for books, you may also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
 
 ## Challenges:
+You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
 
 ####0. Read Chris Pine's Introduction p. xi - xv.
-1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
-2. [Variables and Methods](2-methods)
-3. [Flow Control](3-flow-control)
-4. [Arrays, Iterators, and Hashes](4-arrays)
-5. [More Methods](5-more-methods)
-6. [Fix the Errors](6-fix-the-errors)
-7. [Technical Blog](7-technical-blog.md)
-8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
-10. [BONUS Challenges](10-BONUS-challenges) **Optional**
+####1. [Numbers, Letters, and Variable Assignment](1-numbers-letters)
+####2. [Variables and Methods](2-methods)
+####3. [Flow Control](3-flow-control)
+####4. [Arrays, Iterators, and Hashes](4-arrays)
+####5. [More Methods](5-more-methods)
+####6. [Fix the Errors](6-fix-the-errors)
+####7. [Technical Blog](7-technical-blog.md)
+####8. [Cultural Blog](8-cultural-blog.md)
+####9. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
+####10.[Accountability Groups](10-accountability-groups.md)
+####11.[BONUS Challenges](11-BONUS-challenges) **Optional**
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 

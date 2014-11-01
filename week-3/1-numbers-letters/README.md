@@ -52,9 +52,9 @@ Again, follow along and take a few notes (if you're that type of person) on vari
 ## Release 5: Mini-challenges
 Navigate to the following directories within this folder. Each has a README with instructions for how to do the challenge, a my_solution.rb file where you should put your work, and a spec file with tests to run.
 
-- [Defining Variables #1](../challenges/1-defining-variables)
-- [Simple String Methods](../challenges/2-simple-string-methods)
-- [Local Variables and Basic Arithmetical Operations](../challenges/3-local-variables)
+- [Defining Variables #1](../exercises/1-defining-variables)
+- [Simple String Methods](../exercises/2-simple-string-methods)
+- [Local Variables and Basic Arithmetical Operations](../exercises/3-local-variables)
 
 
 ## Release 6: Reflect
