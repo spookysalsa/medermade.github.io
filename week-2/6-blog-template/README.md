@@ -8,7 +8,7 @@
 - Position HTML elements using CSS padding, borders, and margins
 
 ## Summary
-In this challenge, you will be building a blog template using the wireframe you made in the [3-wireframing](../3-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+In this challenge, you will be building a blog template in HTML using the wireframe you made in the [3-wireframing](../3-wireframing) challenge. 
 
 This is a mandatory pairing challenge, which means you will need to work on it with a partner. Remember to time box!
 
@@ -25,10 +25,10 @@ Using that wireframe as a reference, build your blog template by creating HTML t
 Once you have all of the content on your site, you are ready to add CSS.
 
 ## Release 1: Apply CSS
-
+Because this is going to be used on each of your sites respectfully, focus on positioning elements in this challenge. Do not do anything with colors or styles. You can add that in your solo challenge. 
 In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html.
 
-Use CSS to position and format the content of your blog. Once you have it displayed as you want it, move on to the next release.
+Use CSS to position the content of your blog. Once you have it displayed as you want it, move on to the next release.
 
 ## Release 2: Delete unnecessary text
 
