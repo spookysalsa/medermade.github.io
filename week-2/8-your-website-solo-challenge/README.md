@@ -51,6 +51,7 @@ Now you can truly begin to appreciate CSS, which stands for Cascading Style Shee
 - Add styling to your header and footer.
 - Style and position the content to match your wireframe.
 - Incorporate the colors, fonts, and format the images you've selected for your site.
+- Add your personal touch to your blog template as well.
 
 Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
 
