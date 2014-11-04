@@ -62,7 +62,8 @@ You'll want to save a copy of your site map as "site-map" and add it to your [my
 Use the command line for each step below:
   1. Navigate to the week-2/imgs directory
   2. Move your "site-map" image to the imgs directory.
-  3. Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
+
+Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
 
   HINT: You can either reference markdown's documentation or look at the way images are used in this repo.
 
