@@ -8,7 +8,7 @@ It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get 
 
 You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
 
-We are requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code. You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
+We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code. You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
 
 ## Challenges:
 You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
