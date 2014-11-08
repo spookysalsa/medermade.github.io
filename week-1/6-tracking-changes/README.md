@@ -18,8 +18,7 @@ Git works by following all of the changes in the files inside a git tracked fold
 ## Release 0: Watch: What is a change?
 [![Tracking Changes](http://img.youtube.com/vi/cBTs3WWMXUs/0.jpg)](http://www.youtube.com/watch?v=cBTs3WWMXUs)
 
-<!-- [Tracking Changes](https://www.youtube.com/watch?v=cBTs3WWMXUs)
- -->
+Note: Emmanuel made a new branch here called `git-playground`. You don't have to do that. You can do everything on the `master` branch for this challenge. The `master` branch is the one you are on automatically. You can check which branch you are on by typing `git status`.
 
 ## Release 1: Good Commit Messages
 
@@ -49,7 +48,7 @@ HEAD is the commit you are currently on, HEAD^ is the last commit, HEAD~3, HEAD~
 
 ## Release 3: Make Changes
 
-Now you know about how git tracks changes, so it's time to make some changes!
+Now you know about how git tracks changes, so it's time to make some changes! Make sure you are on the `master` branch for this. If you were on the `git-playground` branch, type `git checkout master` to go back to your master branch.
 
 - Using Sublime, open the [my_reflection.md](my_reflection.md) file associated with this challenge
 - Answer the first question in the reflection file - make sure to save your file
@@ -69,7 +68,7 @@ Now it's time to make your changes live on GitHub. There are two ways to do this
 
 Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Pull changes from the remote to your local copy by typing:
 
-`git pull`
+`git pull origin master` #pull fetches changes and merges them. You can also fetch and merge separately if you prefer.
 
 Since you've been working on the master branch this entire time, it's easy to push changes to the master branch on GitHub. Simply type:
 
