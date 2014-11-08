@@ -27,7 +27,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 12. [GPS 1.1](12-gps1-1) **Do not look at this until your pairing session**
 13. [BONUS challenges](13-BONUS-challenges)
 
-If you want to request feedback from your peers, tweet on Twitter using the hashtag #DBCU1W2. Only other DBC students can see your repositories because they are private.
+If you want to request feedback from your peers, tweet on Twitter using the hashtag **#DBCU1W2**. Only other DBC students can see your repositories because they are private.
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
@@ -42,7 +42,10 @@ Please note, we put the blog challenges at the end of the week, but you can deci
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
 
-## Remember your Unit Expectations!
-- Pair at least twice this week.  *You need to pair 4 times on your own this unit.*
-- Give feedback for each person you paired with. *You need to submit at least 6 pieces of feedback in this unit.*
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.*
+## Remember the Unit Expectations!
+
+Expectation | Times per Unit | Times per Week
+------------|----------|---------
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
