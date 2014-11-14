@@ -19,8 +19,8 @@ Read/Watch both of the following resources to get some background on the DOM (Do
 Use the following resources to acquaint yourself with Chrome's DevTools.
 - [Don't Fear the Browser: Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/the-basics/dont-fear-the-browser)
 - [Code School's DevTools course](http://discover-devtools.codeschool.com/):
-  - Chapter 1: Getting Started & Basic DOM and Styles
-  - Chapter 2: Advanced DOM and Styles
+  - Level 1: Getting Started & Basic DOM and Styles
+  - Level 2: Advanced DOM and Styles
 
 Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them (the points appear on your report card, which you can navigate to by clicking the dropdown menu in the top right corner of the page). Add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
 
