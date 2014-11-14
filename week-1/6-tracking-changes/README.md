@@ -54,7 +54,7 @@ Now you know about how git tracks changes, so it's time to make some changes! Ma
 - Check your git status
 - Write something in this README.md
 - Check your git status (notice a pattern?)
-- Add the change you made in the my_reflection.md to the stage
+- Add the changes you made in the my_reflection.md and README.md to the stage
 - Discard the change made to the README.md
 - Add and commit the changes for my_reflection.md
 - Check the git log to see your commits
