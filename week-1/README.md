@@ -2,7 +2,7 @@
 
 **Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've completed the [Phase 0 prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) **before** getting started with the weekly challenges.
 
-Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.
+Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms (it's not enough to push your files to GitHub) to gauge whether we are giving too much, the right amount, or not enough work each week.
 
 When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 

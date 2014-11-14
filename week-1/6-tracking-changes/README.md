@@ -28,7 +28,6 @@ You can type your commit messages in your terminal with `git commit -m "message 
 
 You can check the commit history of a repository in the command line by typing `git log` and scroll using the up and down arrows. Exit using `q`. How would you score our git commit messages? Would you know where to look in each message to find what files were changed?
 
-
 ## Release 2: Tracking Changes
 
 Whenever you change the state of a file, it is tracked. You can check the status of all the files in the local repo by typing `git status` . If you have modified any files you will see some categories: Changes not staged for commit:, Changes to be committed:, and if you have created a new file, Untracked files:. No changes would return the message:
@@ -56,11 +55,9 @@ Now you know about how git tracks changes, so it's time to make some changes! Ma
 - Write something in this README.md
 - Check your git status (notice a pattern?)
 - Add the change you made in the my_reflection.md to the stage
-- Unstage the change for my_reflection.md
+- Discard the change made to the README.md
 - Add and commit the changes for my_reflection.md
-- Check the git log to see your commit and message
-- Reset the last commit
-- Add and commit the changes for my_reflection.md again
+- Check the git log to see your commits
 
 ## Release 4: Pushing Changes
 
