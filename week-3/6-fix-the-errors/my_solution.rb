@@ -21,46 +21,39 @@ def cartman_hates_rainbows
 end
 
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 # HINT: The line number is deceiving with this one.
+# (3) what is Ruby telling you is causing the error?
 #
-# (3) what is the error message?
-#
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
 
 south_park
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
 
 cartman()
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
@@ -71,15 +64,13 @@ end
 
 cartmans_phrase('I hate Kyle')
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
@@ -90,15 +81,13 @@ end
 
 cartman_says
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 
@@ -112,15 +101,13 @@ end
 
 cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 
@@ -128,45 +115,40 @@ cartmans_lie('A meteor the size of the earth is about to hit Wyoming!')
 
 5 * "Respect my authoritay!"
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
 
 amount_of_kfc_left = 20/0
 
-# (1) what is the name of the file with the error?
+
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 # --- error -------------------------------------------------------
 
 require_relative "cartmans_essay.md"
 
-# (1) what is the name of the file with the error?
+# (1) what is the line number where the error occurs?
 #
-# (2) what is the line number where the error occurs?
+# (2) what is the error message?
 #
-# (3) what is the error message?
+# (3) what is Ruby telling you is causing the error?
 #
-# (4) what is Ruby telling you is causing the error?
-#
-# (5) what is the 'type' of the error?
+# (4) what is the 'type' of the error?
 #
 
 
