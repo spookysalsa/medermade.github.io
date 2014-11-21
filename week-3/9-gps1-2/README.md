@@ -11,15 +11,9 @@
   - Examine pair-programming concepts
 
 ## Summary
-  Welcome to your first Guided Pairing Session (GPS!)
-  We are excited to have you in Phase 0 and to work with
-  you to get you prepared for an exciting time at DBC.
+This GPS is designed to help you examine pair programming and the roles of driver and navigator. Your goal is to design and build a single-page website that introduces the concept of pair programming!
 
-  This GPS is designed to help you examine pair programming and the roles of driver and
-  navigator. Your goal is to design and build a single-page website that
-  introduces the concept of pair programming!
-
-  **Don't for to check in!**
+**Don't forget to check in!**
 
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
@@ -41,7 +35,6 @@ Open a stypi file (only one person needs to do this) and name it with a `.html` 
 Based on your wireframe, add a skeleton for each section.
 
 Be sure to include a link to the phase-0-unit-1/week-2/9-gps1-2/gps1-2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
-
 
 ## Release 2: Discuss Pair Programming
 Discuss the following topics, and add content for each section in the skeleton. Time-box this section to about 10 minutes or so.
