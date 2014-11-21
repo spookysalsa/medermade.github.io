@@ -8,37 +8,53 @@
 
 ## Summary
 
-Welcome to the wonderful world of git workflow. We are going to work through a simple git challenge, including making branches, merging, pull requests and merge conflicts.
+Welcome to the wonderful world of git work flow. We are going to work through a simple git challenge, including making branches, merging, pull requests and merge conflicts.
 
-Make sure that you use all the resources available to you, your pair, the git docs and your guide.
+Make sure that you use all the resources available to you, your pair, the git docs [git SCM](http://git-scm.com/documentation) and your guide.
 
 ## Releases
 
 ## Release 0: Create your repo
 
-Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme, you can add the MIT license if you want others to contribute [reference on licenses](http://choosealicense.com/) but don't worry about it for this small project.
+Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme amd add the MIT license. If open source licensing is all Greek to you, read this article after the session. [reference on licenses](http://choosealicense.com/).
 
-Add you pair and your guide as collaborators on this project and make sure that they have read and write access.
-
-Driver will clone this repo to their computer and add another file called awesome_page.md to the directory (touch is a great command if you want to create files through the terminal). Add, commit and push this to your master. Now we have a base project to work with.
+Navigate to the settings of the repo (right side of the page). Add you pair as collaborators on this project so they can push to the repo.
 
 ## Release 1: Clone the Repo
 
-Both you and your pair should clone the repo to your own computer. You should both have a readme.md and the awesome_page.md file to work with.
+Driver will clone this repo to their computer and add another file called awesome_page.md to the directory (touch is a great command if you want to create files through the terminal). Add, commit and push this to your master. Now we have a base project to work with.
+
+Navigator can now clone this repo as well.
 
 ## Release 2: Create a Feature Branch
 
-Now the driver will create a feature branch called awesome-feature. Change the readme.md to list the terminal commands that you have used so far. If you are feeling adventurous you can add a brief description of each command. After you've made the changes, push your branch to GitHub and do a pull request to master. The navigator should review the pull request on GitHub and merge after a brief review.
+Now the driver will create a feature branch called add-command-log. To create a branch use this command:
 
-Take some time to talk about why you would bother creating a feature branch in the first place. Make sure you could explain what a branch is, how to create one, and how to navigate between them.
+  `$git checkout -b branch_name`
+
+You can read all about the checkout command and options with this command:
+
+  `$git checkout --help`
+
+This can be used to explore the capabilities of any git command.
+
+Change the readme.md to log the terminal commands that you have used so far. Add a brief description of each command for future reference.
+
+After you've made the changes, push your branch to GitHub. When you navigate to the github page you will notice a new button! Github is smart enough to know that if you push a new branch up, you probably want to submit a new pull request. Click the green button to initiate the process.
+
+Github has many features that make it stand out in the source control management business. Along with your commit message, you can expand on your pull request in the comment box, @tag other github users, and insert emojis using :word: notation (important). You can also browse the 'diff' by clicking the files changed button. The commit tab allows you to browse different code states by commit. If you look at the files changed tab, you can leave line comments on the code by hovering over the code and clicking the '+' that appears near the line numbers. Features like this is what makes github a multi-million dollar company!
+
+Now that you are an expert in the social aspects of github, take some time to talk about why you would bother creating a feature branch in the first place. Make sure you could explain what a branch is, how to create one, and how to navigate between them.
+
+## Release 3: Review the pull request
+
+Navigator shall now navigate to the pull request screen (ctrl+f pull request if you can not find the button). Check out the conversation tab and the files changed to see what exactly you are letting into your code base. Play with the features github gives you and when you are ready, merge the pull request.
 
 ## Release 3: Fetch and Merge
 
-Switch driver and navigator roles, now the other partner will make modifications. But first the new driver will need to incorporate the changes already pushed to GitHub. Fetch and merge the changes to your local repository. (git fetch <remote> <branch>)
+Switch driver and navigator roles, now the other partner will make modifications. There are now changes on the github repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
 
-What is the difference between fetch/merge and pull?
-
-Make a new branch, we will make some changes to awesome_page.md. Show off some of your [markdown](http://daringfireball.net/projects/markdown/syntax) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
+Make a new branch, we will make some changes to awesome_page.md. Show off some of your markdown [ github flavored markdown](https://help.github.com/articles/github-flavored-markdown/) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
 
 Make a pull request like last time. The navigator should review the diff of the request and merge it. You will be using this work flow all the time as a developer!
 
