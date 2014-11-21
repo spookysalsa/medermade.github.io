@@ -47,11 +47,10 @@ Discuss the following topics, and add content for each section in the skeleton. 
 Use CSS to make it look nice. Include pictures, outside fonts, etc. You will need to add CSS inside the `<style>` tags because stypi won't accept an actual link to an external stylesheet. This isn't good practice though. Why do you think it's not good practice?
 
 ## Release 4: Reflect
-What was it like to pair for the first time? Did you enjoy it? What worked? What didn't work? Add your reflection to your page and style it as well.
+Reflect on your learning. How was it to pair this time? Did you feel more comfortable? How did you do with the learning competencies?
 
 ## Release 5: Copy, commit, and push
-When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them
-and running them together from your computer.
+When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them and running them together from your computer.
 
 Commit and push your changes onto the phase-0-unit-1 repository.
 
