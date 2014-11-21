@@ -25,7 +25,7 @@ Read the error closely.
 
 Answer each of the following questions for each error in your [my_solution.rb](my_solution.rb) file as a comment.
 
-- What is the name of the file with the error? (hint: it's the first thing in the error message)
+- What is the name of the file with the error? You will only need to answer this once. (hint: it's the first thing in the error message)
 - What is the line number where the error occurs? (hint: it's after the file name)
 - What is the error message? (hint: it's after the line number)
 - What is Ruby telling you is causing the error? (hint: it's immediately after the error above)
