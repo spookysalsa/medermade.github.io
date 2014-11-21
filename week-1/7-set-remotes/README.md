@@ -5,7 +5,7 @@
 ## Learning Competencies
 
 - Explain what a remote is
-- Set up remotes for origin and upstream in your forked repostory
+- Set up remotes for origin and upstream in your forked repository
 
 ## Summary
 
