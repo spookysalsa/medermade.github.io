@@ -23,11 +23,12 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
   - HTML Basics III
 
-
 ## Release 1: Set up your HTML Page
-It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
+It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, a head, title, etc. Try to use the [HTML5 outlines](http://html5doctor.com/outlines/) and [Style Guide](http://www.w3schools.com/html/html5_syntax.asp). Don't forget your closing tags!
 
-Note: You can view your html page at any time by opening the file in a browser.
+Note: You can view your HTML page at any time by opening the file in a browser.
+
+As you go, validate your HTML in this [HTML Validation Tool](http://validator.w3.org/#validate_by_input). This will tell you if your HTML passes the HTML5 (or other versions) validations. It's a good practice.
 
 ## Release 2:
 Now it's time to add the fun stuff. You don't need to point to the correct URL in the links; instead you can point to a placeholder (like`"#"`). You should try getting the content to look about the same as the image below.
