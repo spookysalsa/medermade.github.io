@@ -16,13 +16,13 @@ Make sure that you use all the resources available to you, your pair, the git do
 
 ## Release 0: Create your repo
 
-Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme amd add the MIT license. If open source licensing is all Greek to you, read this article after the session. [reference on licenses](http://choosealicense.com/).
+Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme amd add the MIT license. If open source licensing is all Greek to you, read [this article](http://choosealicense.com/) after the session.
 
 Navigate to the settings of the repo (right side of the page). Add you pair as collaborators on this project so they can push to the repo.
 
 ## Release 1: Clone the Repo
 
-Driver will clone this repo to their computer and add another file called awesome_page.md to the directory (touch is a great command if you want to create files through the terminal). Add, commit and push this to your master. Now we have a base project to work with.
+The driver will clone this repo to their computer and add another file called awesome_page.md to the directory (touch is a great command if you want to create files through the terminal). Add, commit and push this to your master. Now we have a base project to work with.
 
 Navigator can now clone this repo as well.
 
@@ -40,21 +40,21 @@ This can be used to explore the capabilities of any git command.
 
 Change the readme.md to log the terminal commands that you have used so far. Add a brief description of each command for future reference.
 
-After you've made the changes, push your branch to GitHub. When you navigate to the github page you will notice a new button! Github is smart enough to know that if you push a new branch up, you probably want to submit a new pull request. Click the green button to initiate the process.
+After you've made the changes, push your branch to GitHub. When you navigate to the GitHub page you will notice a new button! GitHub is smart enough to know that if you push a new branch up, you probably want to submit a new pull request. Click the green button to initiate the process.
 
-Github has many features that make it stand out in the source control management business. Along with your commit message, you can expand on your pull request in the comment box, @tag other github users, and insert emojis using :word: notation (important). You can also browse the 'diff' by clicking the files changed button. The commit tab allows you to browse different code states by commit. If you look at the files changed tab, you can leave line comments on the code by hovering over the code and clicking the '+' that appears near the line numbers. Features like this is what makes github a multi-million dollar company!
+GitHub has many features that make it stand out in the source control management business. Along with your commit message, you can expand on your pull request in the comment box, @tag other GitHub users, and insert emojis using :word: notation (important). You can also browse the 'diff' by clicking the files changed button. The commit tab allows you to browse different code states by commit. If you look at the files changed tab, you can leave line comments on the code by hovering over the code and clicking the '+' that appears near the line numbers. Features like this is what makes GitHub a multi-million dollar company!
 
-Now that you are an expert in the social aspects of github, take some time to talk about why you would bother creating a feature branch in the first place. Make sure you could explain what a branch is, how to create one, and how to navigate between them.
+Now that you are an expert in the social aspects of GitHub, take some time to talk about why you would bother creating a feature branch in the first place. Make sure you could explain what a branch is, how to create one, and how to navigate between them.
 
 ## Release 3: Review the pull request
 
-Navigator shall now navigate to the pull request screen (ctrl+f pull request if you can not find the button). Check out the conversation tab and the files changed to see what exactly you are letting into your code base. Play with the features github gives you and when you are ready, merge the pull request.
+The navigator shall now navigate to the pull request screen (ctrl+f pull request if you can not find the button). Check out the conversation tab and the files changed to see what exactly you are letting into your code base. Play with the features GitHub gives you and when you are ready, merge the pull request.
 
 ## Release 3: Fetch and Merge
 
-Switch driver and navigator roles, now the other partner will make modifications. There are now changes on the github repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
+Switch driver and navigator roles, the other partner will make now make some modifications. There are currently changes on the GitHub repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
 
-Make a new branch, we will make some changes to awesome_page.md. Show off some of your markdown [ github flavored markdown](https://help.github.com/articles/github-flavored-markdown/) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
+Make a new branch, we will make some changes to awesome_page.md. Show off some of your markdown [ GitHub flavored markdown](https://help.GitHub.com/articles/GitHub-flavored-markdown/) skills. Make something **bold**, *italic*, `some sort of code block` and a [link](http://daringfireball.net/projects/markdown/syntax). Add and commit your changes for awesome_page.md, push your branch to GitHub.
 
 Make a pull request like last time. The navigator should review the diff of the request and merge it. You will be using this work flow all the time as a developer!
 
