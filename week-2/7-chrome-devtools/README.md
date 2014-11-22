@@ -18,43 +18,45 @@ Read/Watch both of the following resources to get some background on the DOM (Do
 ## Release 1: Chrome's DevTools
 Use the following resources to acquaint yourself with Chrome's DevTools.
 - [Don't Fear the Browser: Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/the-basics/dont-fear-the-browser)
-- [Code School's DevTools course](http://discover-devtools.codeschool.com/):
+- [Code School's DevTools course](http://discover-devtools.codeschool.com/) (Take the quizzes at the both chapters):
   - Level 1: Getting Started & Basic DOM and Styles
   - Level 2: Advanced DOM and Styles
 
-Take the quizzes at the end of each chapter, and take a screenshot of your Code School points when you complete them (the points appear on your report card, which you can navigate to by clicking the dropdown menu in the top right corner of the page). Add the image to your imgs directory in the `3-chrome-devtools` directory, and include the image inline in the [my_reflection.md](my_reflection.md) file.
-
 ## Release 2: Practice
-First, find the tab that supports realtime editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will certainly save you time.
+First, find the tab that supports real time editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will save you time.
 
 Load the [css-positioning.html](css-positioning.html) in your browser and open the Dev Tools inspector, and play around with the boxes. How can you select and change them?
 
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
-- Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! I picked three random colors.
+HINT:A lot of learning CSS is trial and error. That's OK. If you are afraid you got the boxes formatted properly but don't know how you did it, cross out any CSS you changed to see how it effects the boxes. Then, when you feel like you know how you did it, erase everything you did and do it again.
+
+- Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! We picked three random colors.
 ![background-color](../imgs/devtools-colors.png)
+
 - Put the boxes in a row.
 ![row](../imgs/devtools-row.png)
+
 - Make the boxes have equal distance between them.
 ![equal distance](../imgs/devtools-equal.png)
+
 - Move all the boxes into one column.
-
-
 ![column](../imgs/devtools-column.png)
 
 
 - Resize the boxes so they are 30% of their original size.
-
-
 ![30% column](../imgs/devtools-30column.png)
+
 - Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
 ![static bottom](../imgs/devtools-staticbottom.png)
+
 - Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
 ![top](../imgs/devtools-staticheader.png)
+
 - Move the relative div position to the right so it's like a right sidebar.
 ![sidebar](../imgs/devtools-sidebar.png)
+
 - Design your own configuration that uses margin, border, and padding. Explain the differences and how to use each to yourself.
-- Make a configuration that uses block and inline-block to see what the differences are.
 
 Upload each of your images into the week-2 [imgs](../imgs) directory and display them inline.
 
