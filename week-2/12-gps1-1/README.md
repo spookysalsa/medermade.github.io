@@ -18,7 +18,7 @@ Make sure that you use all the resources available to you, your pair, the git do
 
 Choose 1 member of your pair and create a new repo called phase-0-gps-1. Initialize this with a readme amd add the MIT license. If open source licensing is all Greek to you, read [this article](http://choosealicense.com/) after the session.
 
-Navigate to the settings of the repo (right side of the page). Add your pair as collaborators on this project so they can push to the repo.
+Navigate to the settings of the repo (right side of the page). Add your pair as a collaborator on this project so they can push to the repo.
 
 ## Release 1: Clone the Repo
 
