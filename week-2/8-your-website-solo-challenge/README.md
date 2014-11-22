@@ -18,13 +18,10 @@ Get creative. Have fun. But be conscious of time. This site will be a work in pr
 
 Pomodoro is a common and effective timeboxing and productivity technique that we can use in this exercise. Basically you do 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](http://www.moosti.com). Take a second and estimate how many units you want to work on each section, and see where you are by the end. Then you can decide if you want to continue adding more time. You will be improving your website as you go through the program. Don't burn out now!
 
-
 ## Releases
 
-## Release 0: Wireframes
-Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far? You should be sure to include links to your social networks using icons and have a header and footer in the design.
-
-You also need to make a wireframe for the index to your blog. This is where you will link to your blog posts. This will be called your blog/index.html. (It is different from your site index)!
+## Release 0: Reconsider your Wireframes
+Reconsider the wireframes you created for your index.html and blog/index.html pages in [3-wireframing](../3-wireframing). Do you need to make any changes based on what you've learned so far? If so, make the changes and upload your new wireframes to this directory.
 
 ## Release 1: Design
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
@@ -32,30 +29,36 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 - [Adobe Color CC](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
 
-You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidify your design.
+You also may want to complete the bonus challenge, [Make a Mood Board](../13-BONUS-challenges/mood-board), to help you solidify your design.
 
-Again, don't get bogged down trying to make your site perfect. Make it acceptable. You should make it a goal to revisit your site each week to add to it.
+Again, don't get bogged down in your research trying to make your site perfect. Make it acceptable. You should make it a goal to revisit your site each week to add to it.
 
 ## Release 2: Development
 
 #### Add Content using HTML
-Using your wireframes and design as references, add content to your index.html page in your [USERNAME].github.io site using HTML.
+Using your wireframes and design ideas as references, add content to your index.html page in your [USERNAME].github.io site using HTML. You may want to focus on using HTML5 semantic elements instead of `<div>`s. Take a moment to look through the [HTML5 Document Outlines](http://html5doctor.com/outlines/). You can also use the [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp) on w3schools.
 
-Once you have all of the content on your index, you are ready to create your blog/index.html file. Be sure to add links to week 1's blog posts to it!
+Once you have all of the content on your index, make sure your HTML passes validation by running it in through a [validator](http://validator.w3.org/#validate_by_input). When it passes validation, you are ready to create your blog/index.html file. Be sure to add links to your week 1 blog posts! Be sure this HTML passes validation as well.
 
-Remember, your website is a work in progress. Do not deviate from your wireframe until after you've built your MVP. Done is better than perfect.
+Remember, your website is a work in progress. Do not deviate from your wireframes until you've built your MVP. As we often say at DBC, "Done is better than perfect."
 
 #### Apply CSS
-Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them the same.
+Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them.
 
-- Add styling to your header and footer.
-- Style and position the content to match your wireframe.
-- Incorporate the colors, fonts, and format the images you've selected for your site.
-- Add your personal touch to your blog template as well.
+In your stylesheets directory, add a `default.css` sheet. Using [this document](http://www.basictips.com/using-multiple-external-style-sheets.shtml) as a reference, add the default.css stylesheet to your blog-template.html (and week 1 blogs) so the default.css will be the first stylesheet referenced and will be supplemented by your `blog-stylesheet.css`
 
-Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
+In your `default.css` stylesheet:
+- Add styling to your header and footer
+- Style and position the content to match your wireframes
+- Incorporate the colors and fonts you want on your site
+- Format any images you've selected
 
-REMINDER: Are you being true to your MVP or are you working on new features? Don't deviate from your original wireframe until AFTER you've built your MVP.
+In your `blog-stylesheet.css` file:
+- Add any CSS to personalize your blog posts
+
+Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements properly.
+
+REMINDER: Are you being true to your MVP or are you working on new features? Don't deviate from your original wireframes until AFTER you've built your MVP.
 
 ## Release 3: More Pages! (OPTIONAL)
 If you want to add more to your site, consider adding a sections for:
@@ -72,7 +75,6 @@ On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.m
 
 ## Release 6: Review (optional)
 Check out your peers websites and leave comments as issues. Search for them using the **#DBCmysite** hashtag!
-
 
 ## Additional Resources:
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
