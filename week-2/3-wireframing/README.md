@@ -26,7 +26,7 @@ It's easy to go down a rabbit hole while wireframing, so keep it simple and time
 
 
 ## Release 1: Wireframe your site's index
-The index of a site makes the first impression for those who land there. Consider how you want the index to look. You will be using this site to promote yourself when you finish Dev Bootcamp, so at the very least, you should have a header, footer, and navigation bar. You'll probably also want to include places for the following:
+The index is the homepage of your site. It's the page you will land on if you type in [USERNAME].github.io into the browser so it's important it makes a good first impression. Consider how you want the index to look. You will be using this site to promote yourself when you finish Dev Bootcamp, so at the very least, you should have a header, footer, and navigation bar. You'll probably also want to include places for the following:
 
   - Links to your social networks (Twitter, Facebook, LinkedIn, Quora, GitHub etc.)
   - Your picture
