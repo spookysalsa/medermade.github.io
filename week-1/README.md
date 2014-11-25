@@ -31,6 +31,8 @@ When you have questions about the instructions or how to do something, are confu
 
 ## Remember the Unit Expectations!
 
+**NOTE: We do not expect you to peer-pair during week 1. This is here as an FYI. You should still rate at least 7 pieces of feedback.**
+
 Expectation | Times per Unit | Times per Week
 ------------|----------|---------
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
