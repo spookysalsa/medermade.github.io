@@ -37,12 +37,12 @@ Go to the repository settings, located on the bottom right of the right navigati
 
 Now you have your own fork of the curriculum on github.com just waiting to be modified. It's time to bring it to your computer so you can add your work. Clone your **forked** repo using the instructions from the video.
 
-Delete your local copy (using the command line) and clone it again. Get familiar with the commands and the steps to get a file from github to your computer.
+Delete your local copy (using the command line) and clone it again. Get familiar with the commands and the steps to get a file from GitHub to your computer.
 
 Now that you have your own fork and a local copy of the files to work with, you can share your knowledge with the world. Find someone/thing that will listen to you for 10 minutes and teach them how to fork and clone a repo. Wouldn't it be great if your dog could do this for you?
 
 ## Release 4: Reflect
-Now you can finally add your reflection to the challenge itself! Reflect on your learning in this challenge by editing the [my_reflection.md](my_reflection.md) file in the [3-fork-and-clone](./) folder (the folder you are in). These files are written in [markdown](http://daringfireball.net/projects/markdown/syntax), which is a text-to-HTML conversion tool. It's so easy, you just need to type as you normally would to add your reflections.
+Now you can finally add your reflection to the challenge itself! Reflect on your learning in this challenge by editing the [my_reflection.md](my_reflection.md) file in the [5-fork-clone](./) folder (the folder you are in). These files are written in [markdown](http://daringfireball.net/projects/markdown/syntax), which is a text-to-HTML conversion tool. It's so easy, you just need to type as you normally would to add your reflections.
 
 You can complete this challenge reflection on github.com. Click on the [my_reflection.md](my_reflection.md) file in this folder. There should be a button to edit (it looks like a pencil) at the top. Click it. You'll see questions from the first challenge as well as this one. Add your reflection in markdown and write a commit message under "Commit changes" to describe the changes you made. Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
 

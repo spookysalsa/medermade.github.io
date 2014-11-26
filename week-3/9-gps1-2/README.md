@@ -11,10 +11,9 @@
   - Examine pair-programming concepts
 
 ## Summary
-Welcome to your second Guided Pairing Session (GPS!)
+This GPS is designed to help you examine pair programming and the roles of driver and navigator. Your goal is to design and build a single-page website that introduces the concept of pair programming!
 
-This GPS is designed to help you examine pair programming and the roles of driver and navigator. Your goal is to design and build a single-page website that
-introduces the concept of pair programming! You've had a bit of experience with programming, but it's a good time to solidify your understanding of it and practice!
+**Don't forget to check in!**
 
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look.
@@ -37,7 +36,6 @@ Based on your wireframe, add a skeleton for each section.
 
 Be sure to include a link to the phase-0-unit-1/week-2/9-gps1-2/gps1-2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
 
-
 ## Release 2: Discuss Pair Programming
 Discuss the following topics, and add content for each section in the skeleton. Time-box this section to about 10 minutes or so.
 
@@ -49,11 +47,11 @@ Discuss the following topics, and add content for each section in the skeleton. 
 Use CSS to make it look nice. Include pictures, outside fonts, etc. You will need to add CSS inside the `<style>` tags because stypi won't accept an actual link to an external stylesheet. This isn't good practice though. Why do you think it's not good practice?
 
 ## Release 4: Reflect
-What was it like to pair in this session? Did you enjoy it? What was different from your first session? What worked? What didn't work? Add your reflection to your page and style it as well.
+
+Reflect on your learning. How was it to pair this time? Did you feel more comfortable? How did you do with the learning competencies?
 
 ## Release 5: Copy, commit, and push
-When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them
-and running them together from your computer.
+When you are finished, copy your code into the [gps1-2.css](gps1-2.css) and [gps1-2.html](gps1-2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them and running them together from your computer.
 
 Commit and push your changes onto the phase-0-unit-1 repository.
 

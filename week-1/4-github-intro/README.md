@@ -16,7 +16,7 @@ Web Developers use tools to track their progress and create backups. GitHub is a
 ## Release 0: GitHub Vocabulary
 
 #### Repositories
-You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders, also called directories, and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays README files on the main page of a repository by default.
+You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders, also called directories, and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." GitHub displays README files on the main page of a repository by default.
 
 ![repository-main](../imgs/repository-main.png)
 
@@ -28,7 +28,7 @@ Challenges will be contained in directories or individual files. You can determi
   1. The README lists the challenges in order.
   2. The challenges are numbered in the order needed to complete them in the section where directories and files are displayed (above the README).
 
-Don't overthink the web version of github too much. It's a very similar structure to a computer's file structure you already know.
+Don't overthink the web version of GitHub too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
 By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the the most ideal version of your code and always working/running properly.

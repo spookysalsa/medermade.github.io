@@ -68,11 +68,11 @@ Now we can install our first package, Ruby. In your root directory type:
 C:/ cinst ruby
 ```
 
-This will install ruby 2.0.0, type ruby -v, if you get an output that declares your ruby version, you are good to go!
+This will install Ruby 2.0.0, type ruby -v, if you get an output that declares your Ruby version, you are good to go!
 
 ## Release 3: Install Rspec
 
-Rspec is a testing framework built in ruby and is the current front runner in testing framworks. We have some test driven challenges that use rspec, so we will install it as well.
+Rspec is a testing framework built in Ruby and is the current front runner in testing framworks. We have some test driven challenges that use rspec, so we will install it as well.
 
 ```shell
 gem install rspec
@@ -107,7 +107,7 @@ type git --version to test your install.
 
 Now we can configure some of the git settings.
 
-first thing is to set your username and email you have related to your github account
+first thing is to set your username and email you have related to your GitHub account
 
 ```shell
 git config --global user.name "John Doe"

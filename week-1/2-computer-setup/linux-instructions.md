@@ -17,7 +17,7 @@ You will need to have your computer set up with the following tools for Phase 0 
 ## Release 0: Download Sublime Text 2
 Download and follow instructions from [their site](http://www.sublimetext.com).
 
-After you download, create a symlink so you can open sublime using `subl "filename"`
+After you download, create a symlink so you can open Sublime using `subl "filename"`
 
 Enter this command into your terminal:
 ```shell
@@ -49,23 +49,23 @@ Now we are ready to install Rbenv
 
 ## Release 3: get Rbenv
 
-Rbenv will be our ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
+Rbenv will be our Ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
 
-Digital ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install ruby 2.0.0-p353 instead of 1.9.3-p392.
+Digital ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install Ruby 2.0.0-p353 instead of 1.9.3-p392.
 
 Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release
 
 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-with-rbenv--2)
 
 ## Release 4: Set up your Path
-First you need to clone this github repository into your computer and install the files. Type each line separately:
+First you need to clone this GitHub repository into your computer and install the files. Type each line separately:
 
 ```shell
 git clone https://github.com/supertopher/dotfiles.git
 cd dotfiles
 ./install
 ```
-Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime. Note: this will replace your current bash profile. 
+Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime. Note: this will replace your current bash profile.
 
 Restart your terminal to have these changes take place.
 
@@ -79,14 +79,14 @@ git --version
 ```
 
 ## Release 6: Configure Git
-You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your Github email address in the following format:
+You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your GitHub email address in the following format:
 
 ```shell
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Now make sublime text your preferred editor for git:
+Now make Sublime text your preferred editor for git:
 ```shell
 git config --global core.editor "subl -w"
 ```
@@ -110,7 +110,7 @@ You'll use this later in Phase 0.
 ## Release 9: Install Rspec
 Type ```gem install rspec```
 
-This will install RSpec, a ruby testing framework.
+This will install RSpec, a Ruby testing framework.
 
 ## Release 10: Install SQLite
 Install sqlite3 using apt-get

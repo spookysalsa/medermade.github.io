@@ -18,74 +18,62 @@ Get creative. Have fun. But be conscious of time. This site will be a work in pr
 
 Pomodoro is a common and effective timeboxing and productivity technique that we can use in this exercise. Basically you do 25 minutes of work, 5 minutes of break. You can use your own timer or this web application [moosti](http://www.moosti.com). Take a second and estimate how many units you want to work on each section, and see where you are by the end. Then you can decide if you want to continue adding more time. You will be improving your website as you go through the program. Don't burn out now!
 
-
 ## Releases
 
-## Release 0: Wireframes
-Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
-
-This page is required for you to create:
-
-blog/index.html (Note: this is different than the index.html already in your [USERNAME].github.io/index.html). This is where the links to blog posts will live.
-
-You do not have to create them during this challenge, but you should decide what will be in your MVP (Minimum Viable Product) and what you want to add in the future. This will change, but it's a good idea to have an end goal as well.
-
- Some ideas to consider:
- - About me
- - Projects
- - Cheat Sheets
- - People you follow
-
+## Release 0: Reconsider your Wireframes
+Reconsider the wireframes you created for your index.html and blog/index.html pages in [3-wireframing](../3-wireframing). Do you need to make any changes based on what you've learned so far? If so, make the changes and upload your new wireframes to this directory.
 
 ## Release 1: Design
-
-Figure out what is acceptable to you for an MVP. Create some user stories as the creator of this website that you want to have and stick to these features. For example:
-
-As the site creator, I want to be able to showcase my blog posts from a central location.
-As the site creator, I want to demonstrate my current knowledge of HTML and CSS.
-
-and as a user:
-
-As a user, I want to be able to clearly read the content the site creator has written.
-As a user, I want to be able to navigate seamlessly from page to page.
-
-These are just examples, what do you want to create for you MVP?
-
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
-- [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
+- [Adobe Color CC](https://kuler.adobe.com/create/color-wheel/) to create a color theme for your site
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
 
-You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidify your design.
+You also may want to complete the bonus challenge, [Make a Mood Board](../13-BONUS-challenges/mood-board), to help you solidify your design.
+
+Again, don't get bogged down in your research trying to make your site perfect. Make it acceptable. You should make it a goal to revisit your site each week to add to it.
 
 ## Release 2: Development
 
 #### Add Content using HTML
-Using your wireframes and design as references, add content to your index.html (as well as other) pages in your [USERNAME].github.io site using HTML.
+Using your wireframes and design ideas as references, add content to your index.html page in your [USERNAME].github.io site using HTML. You may want to focus on using HTML5 semantic elements instead of `<div>`s. Take a moment to look through the [HTML5 Document Outlines](http://html5doctor.com/outlines/). You can also use the [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp) on w3schools.
 
-You should include links to each social networking site using icons. Make sure to have a header, footer, and navigation bar (as long as they fit into your design).
+Once you have all of the content on your index, make sure your HTML passes validation by running it in through a [validator](http://validator.w3.org/#validate_by_input). When it passes validation, you are ready to create your blog/index.html file. Be sure to add links to your week 1 blog posts! Be sure this HTML passes validation as well.
 
-Once you have all of the content on your index, you are ready to create the other required pages. Make sure the links on your index will actually take you to the other pages on your site! Don't forget to link to week 1's blog posts on your blog/index.html!
-
+Remember, your website is a work in progress. Do not deviate from your wireframes until you've built your MVP. As we often say at DBC, "Done is better than perfect."
 
 #### Apply CSS
-Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them the same.
+Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them.
 
-- Add styling to your header, footer, and navigation bar.
-- Style and position the content to match your wireframe.
-- Incorporate the colors, fonts, and format the images you've selected for your site
+In your stylesheets directory, add a `default.css` sheet. Using [this document](http://www.basictips.com/using-multiple-external-style-sheets.shtml) as a reference, add the default.css stylesheet to your blog-template.html (and week 1 blogs) so the default.css will be the first stylesheet referenced and will be supplemented by your `blog-stylesheet.css`
 
-Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
+In your `default.css` stylesheet:
+- Add styling to your header and footer
+- Style and position the content to match your wireframes
+- Incorporate the colors and fonts you want on your site
+- Format any images you've selected
 
-REMINDER: Are you being true to your MVP or are you working on new features? Finish your core before you create new things.
+In your `blog-stylesheet.css` file:
+- Add any CSS to personalize your blog posts
 
-## Release 3: Publish
+Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements properly.
+
+REMINDER: Are you being true to your MVP or are you working on new features? Don't deviate from your original wireframes until AFTER you've built your MVP.
+
+## Release 3: More Pages! (OPTIONAL)
+If you want to add more to your site, consider adding a sections for:
+
+- Projects
+- About me (or Contact)
+- Anything else you want to share
+
+## Release 4: Publish
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
-## Release 4: Reflect
+## Release 5: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
-## Release 5: Review (optional)
+## Release 6: Review (optional)
 Check out your peers websites and leave comments as issues. Search for them using the **#DBCmysite** hashtag!
 
 ## Additional Resources:

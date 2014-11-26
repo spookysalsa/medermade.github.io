@@ -21,6 +21,8 @@ Unfortunately (or fortunately), the command line is very simple. There are set c
 
 Keep this in mind: the more you can do without a mouse, the more efficient you will become.
 
+**Please note: this course suggests a lot of work: making flashcards etc. While you may chose to do that, you might also just prefer to make a cheatsheet for yourself and go through the tutorial in a couple of hours.**
+
 ## Releases
 
 ## Release 0: Read

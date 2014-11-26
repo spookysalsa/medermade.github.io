@@ -32,7 +32,7 @@ In this unit, you'll be creating your own Phase 0 website where you'll post your
 
 You'll definitely want to include:
 
- - Links to your social networks (Twitter, facebook, linked-in, quora, github etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add as well)
+ - Links to your social networks (Twitter, facebook, linked-in, quora, GitHub etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add as well)
   - Your picture
   - Your contact information
   - Link to your blog
@@ -62,7 +62,8 @@ You'll want to save a copy of your site map as "site-map" and add it to your [my
 Use the command line for each step below:
   1. Navigate to the week-2/imgs directory
   2. Move your "site-map" image to the imgs directory.
-  3. Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
+
+Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
 
   HINT: You can either reference markdown's documentation or look at the way images are used in this repo.
 

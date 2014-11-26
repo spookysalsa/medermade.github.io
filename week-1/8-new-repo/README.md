@@ -20,7 +20,7 @@ Up to this point, you have been working with existing repositories. In this chal
 ![New repo form](../imgs/github-repo-1.jpg)
 
 2. **Fill out the new repository form.**
- - You *must, must, must* name your repository **[USERNAME].github.io**.Your repository should be *public*.
+ - You *must, must, must* name your repository "**[USERNAME].github.io**".Your repository should be *public*.
  - Check "Initialize this project with a README" and add an MIT license.
 
  ![New repo form](../imgs/github-repo-2.jpg)
@@ -83,7 +83,7 @@ Now you will create a temporary index for your personal website. We will be usin
 
 ## Release 4: Commit and Push
 
-Using your github skills, add the file to the stage, commit your changes, and push it to Github.
+Using your git skills, add the file to the stage, commit your changes, and push it to GitHub.
 
 After your push is done, your remote repo which lives on github.com will be updated.
 Go to **http://[USERNAME].github.io** to see your HTML page live!
