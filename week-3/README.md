@@ -1,14 +1,14 @@
 # Week 3: Introduction to Ruby
 
-Week 3's material is not ready yet!
+<!-- Week 3's material is not ready yet!
 
-We will release it with changes at least by the Friday before the week begins.
+We will release it with changes at least by the Friday before the week begins. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
 
-We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code. You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
+We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code or you can purchase it on Amazon or other major booksellers (for potentially less than the coupon code). You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
 
 ## Challenges:
 You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
@@ -27,9 +27,9 @@ Before starting, please read Chris Pine's Introduction p. xi - xv.
 10. [Accountability Groups](10-accountability-groups.md)
 11. [BONUS Challenges](11-BONUS-challenges) *Optional*
 
-Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
+Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 
-If you want to request feedback from your peers, tweet on Twitter using the hashtag **#DBCU1W3**. Only other DBC students can see your repositories because they are private.
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W3.** Only other DBC students can actually see your repositories because they are private.
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
@@ -48,4 +48,4 @@ Expectation | Times per Unit | Times per Week
 ------------|----------|---------
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
-Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7 -->
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7

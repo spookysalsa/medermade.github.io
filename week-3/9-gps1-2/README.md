@@ -47,6 +47,7 @@ Discuss the following topics, and add content for each section in the skeleton. 
 Use CSS to make it look nice. Include pictures, outside fonts, etc. You will need to add CSS inside the `<style>` tags because stypi won't accept an actual link to an external stylesheet. This isn't good practice though. Why do you think it's not good practice?
 
 ## Release 4: Reflect
+
 Reflect on your learning. How was it to pair this time? Did you feel more comfortable? How did you do with the learning competencies?
 
 ## Release 5: Copy, commit, and push

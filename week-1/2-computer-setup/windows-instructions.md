@@ -27,9 +27,9 @@ Here is the instructions for getting your windows environment set up. We will be
 
 ## Release 0: Download Sublime Text
 
-Follow these instructions [sublime install and configure](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md)
+Follow these instructions [sublime install and configure](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) You can choose to download either Sublime Text 2 or 3.
 
-If you have dont this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
+If you have done this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
