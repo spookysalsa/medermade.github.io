@@ -50,7 +50,7 @@ Now that you are an expert in the social aspects of GitHub, take some time to ta
 
 The navigator shall now navigate to the pull request screen (ctrl+f pull request if you can not find the button). Check out the conversation tab and the files changed to see what exactly you are letting into your code base. Play with the features GitHub gives you and when you are ready, merge the pull request.
 
-## Release 3: Fetch and Merge
+## Release 4: Fetch and Merge
 
 Switch driver and navigator roles, the other partner will make now make some modifications. There are currently changes on the GitHub repo that need to be incorporated locally. Fetch and merge the changes to your local repository. (git fetch \<remote\> \<branch\>, git merge \<remote\>/\<branch\>)
 
@@ -58,7 +58,7 @@ Make a new branch, and make some changes to awesome_page.md. Show off some of yo
 
 Make a pull request like last time. The navigator should review the diff of the request and merge it. You will be using this work flow all the time as a developer!
 
-## Release 4: Merge Conflict
+## Release 5: Merge Conflict
 Sometimes you will encounter merge conflicts, but don't worry, once you've gone through a few, they aren't scary, so it's good to get practice now!
 
 A merge conflict happens when two branches change the same file and try to merge them together. Here is how to create a small merge conflict:
@@ -72,9 +72,9 @@ You can imagine that in a big project, this can be a huge time waster. Good git 
 
 Review [this](http://stackoverflow.com/questions/16490873/how-to-avoid-git-conflicts-in-a-team) discussion about preventing merge conflicts. It's good to keep in mind as you move forward with your git education.
 
-## Release 5: Discuss
+## Release 6: Discuss
 
 Confer with your partner and guide about what a good git work flow is, the purpose of git branching, feature branching, and pull requests. You are in the group of elite git users now!
 
-## Release 6: Reflect
+## Release 7: Reflect
 On your own, reflect on this challenge in the [my_reflection.md](my_reflection.md) file.

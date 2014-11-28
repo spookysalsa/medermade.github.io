@@ -20,7 +20,7 @@ Up to this point, you have been working with existing repositories. In this chal
 ![New repo form](../imgs/github-repo-1.jpg)
 
 2. **Fill out the new repository form.**
- - You *must, must, must* name your repository **[USERNAME].github.io**.Your repository should be *public*.
+ - You *must, must, must* name your repository "**[USERNAME].github.io**".Your repository should be *public*.
  - Check "Initialize this project with a README" and add an MIT license.
 
  ![New repo form](../imgs/github-repo-2.jpg)
