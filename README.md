@@ -10,7 +10,7 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 
 Expectation | Times per Unit |
 ------------|----------|
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 4
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | at least 4
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 6
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 
