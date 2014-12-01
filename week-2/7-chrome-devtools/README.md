@@ -50,7 +50,7 @@ HINT:A lot of learning CSS is trial and error. That's OK. If you are afraid you 
 - Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
 ![static bottom](../imgs/devtools-staticbottom.png)
 
-- Make the absolute div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
+- Now make the static div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
 ![top](../imgs/devtools-staticheader.png)
 
 - Move the relative div position to the right so it's like a right sidebar.
