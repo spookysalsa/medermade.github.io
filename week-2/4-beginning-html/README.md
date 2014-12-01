@@ -8,7 +8,7 @@
 - Divide content on a page using divs and spans
 
 ## Summary
-In this challenge, you will be building an html-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways.
+In this challenge, you will be building an html-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/) without looking at the source code. It's a pretty simple site, but can be done in various ways.
 
 It's ok if the site isn't an exact copy. It should just be as close as you can make it. Remember to time box!
 
