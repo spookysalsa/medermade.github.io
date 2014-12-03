@@ -1,10 +1,5 @@
 # 7. Chrome Dev Tools Challenge Reflection
 
-## Release 1: Chrome Dev Tools
-
-<!-- Put your image of your codeschool points inline here -->
-
-
 ## Release 2: Positioning
 
 - New Colors:
