@@ -34,24 +34,11 @@ Use CSS to position the content on your blog template. Once you have it displaye
 
 Since this is a template, you don't want to have unnecessary text you'll have to delete each time, so delete the temporary Web 2.0 ipsum text. If you want to add comments like ```<!-- insert title here -->``` to make it clear what information goes where, that might be useful.
 
-## Release 3: Modify the Week 1 Blogs
-
-*This part might be easier to do by yourself, but you can continue pairing if you think it would be better.*
-
-Now that you have a blog template in HTML, you'll want to use it to display your week 1 blogs.
-
-Using the command line, make two copies of your blog template. Name them `t1-git-blog.html` and `c1-chefs-kitchen.html`.
-
-
-Copy and paste the content from your week 1 markdown files to your new html files.
-
-Delete the markdown files when you have all of the information transferred.
-
-## Release 4: Commit your changes
+## Release 3: Commit your changes
 
 Now that you've made your template, you're ready to use it in the blog assignments. Add your changes to the stage, commit, and push them.
 
-Now go to [USERNAME].github.io/blog/t1-git-blog.html and [USERNAME].github.io/blog/c1-chefs-kitchen.html. Are your files displaying as you expected them to? If not, can you find out what the issue is?
+Now go to [USERNAME].github.io/blog/t1-git-blog.html and [USERNAME].github.io/blog/c1-chefs-kitchen.html. Are your files displaying as you expected them to with your CSS? If not, can you find out what the issue is?
 
 ## Release 5: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.

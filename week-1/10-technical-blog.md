@@ -30,32 +30,30 @@ This week you've learned a bit about the command line and gotten more familiar w
 
 - Navigate to your [USERNAME].github.io repository
 - Make a directory called `blog`
-- In the `blog` directory, add a new file called `t1-git-blog.md`
-- Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `t1-git-blog.md` file.
+- In the `blog` directory, add a new file called `t1-git-blog.html`
+- Copy the template from [blog-template.html](blog-template.html) (in this repository) into your `t1-git-blog.html` file.
 - Add and commit your changes with a good commit message
 - Push your changes
-- Navigate to your [USERNAME].github.io/blog/t1-git-blog.md
+- Navigate to your [USERNAME].github.io/blog/t1-git-blog.html
 
 If you went through every step, you should see the blog template live on your site!
 
 
 ## Release 2: Write
 
-Now, in your `t1-git-blog.md` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a newb (newbie) to programming. If it helps, imagine writing a post on the questions above for yourself last week.
-
+Now, in your `t1-git-blog.html` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a newb (newbie) to programming. If it helps, imagine writing a post on the questions above for yourself last week.
 
 ## Release 3: Proofread
 
 Like I said, no one expects your blog to be perfect, but since coding is a precise discipline that relies on proper syntax, it's a good idea to proof-read once.
 
-
 ## Release 4: Publish
 
-Once you are satisfied with what you've written, go through the git workflow to put your blog online. It won't look pretty, since markdown files won't be rendered, but it will be readable.
+Once you are satisfied with what you've written, go through the git workflow to put your blog online.
 
 Next week you will make this post much prettier - but for now it's important that you get the content up there.
 
-Double check you can see your updated content on [USERNAME].github.io/blog/t1-git-blog.md.
+Double check you can see your updated content on [USERNAME].github.io/blog/t1-git-blog.html.
 
 ## Release 5: Promote
 

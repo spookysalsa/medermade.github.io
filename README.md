@@ -2,15 +2,17 @@
 
 Welcome to Phase 0! Below you will find links to the curriculum for each week. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
 
+Each week's curriculum will be posted the Friday before the week starts.
+
 ### [Week 1: Git, GitHub, and the Command Line](week-1/README.md)
-### [Week 2: HTML and CSS](week-2/README.md)
-### [Week 3: Introduction to Ruby](week-3/README.md)
+<!-- ### [Week 2: HTML and CSS](week-2/README.md)
+### [Week 3: Introduction to Ruby](week-3/README.md) -->
 
 ## Unit Expectations
 
 Expectation | Times per Unit |
 ------------|----------|
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 4
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | at least 4
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 6
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 
