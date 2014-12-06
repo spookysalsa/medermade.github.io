@@ -16,8 +16,8 @@ Note: This week's might be a little long if you watch the whole video, so watch 
 **Using ONLY your command line**
 
 - Navigate to your `[USERNAME].github.io/blog` directory
-- Add a new file called `c1-chefs-kitchen.md`
-- Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `c1-chefs-kitchen.md` file.
+- Add a new file called `c1-chefs-kitchen.html`
+- Copy the html template from [blog-template.html](blog-template.html) (in this repository) into your `c1-chefs-kitchen.html` file.
 
 
 ## Release 1: Kitchen vs. Table
@@ -34,7 +34,7 @@ Talk about what came up for you and anything you want in addition to the questio
 
 Don't forget to add, commit, and push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
 
-[USERNAME].github.io/blog/c1-chefs-kitchen.md
+[USERNAME].github.io/blog/c1-chefs-kitchen.html
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
