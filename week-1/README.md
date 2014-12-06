@@ -23,6 +23,8 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 #### 11. [Cultural Blog](11-cultural-blog.md)
 #### 12. [Self Introduction](12-self-introduction.md)
 
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU1W1.** Only other DBC students can actually see your repositories because they are private.
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.

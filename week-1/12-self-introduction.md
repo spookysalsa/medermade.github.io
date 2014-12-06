@@ -26,7 +26,7 @@ Each cohort has it's own email list visible on the cohort webpage. Email that li
 - Location
 - Why you're attending DBC
 - What you are most excited to learn about
-- What you learned by reading [NAME]'s reflection
+- What you learned by reading [NAME]'s reflection (If the person hasn't completed their reflections, skip this step and send the intro email. Then, when the person does submit their reflections, send an update with what you learned.)
 - When the best time for you to pair is
 - Links to your 1) forked `phase-0-unit-1` repository and your [USERNAME].github.io site
 
@@ -41,6 +41,7 @@ After you start seeing other student's self introductions, select another person
 Leave feedback for the second person using the "Issues" feature on GitHub. Use the ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
 ## Release 4: Check in with your accountability group
+
 Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. You will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, in person, or email. You will also get the chance to work with them on group challenges in later units, so it's important to start building relationships early. You may want to start a code review process within your accountability group as well.
 
 Now that you've introduced yourself to your cohort, it's time to get to know your accountability group. You should have a link to your accountability groups in your Google+ Community. Contact the people in your accountability group via email with the following information:

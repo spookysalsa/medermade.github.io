@@ -14,17 +14,19 @@ You will need to have your computer set up with the following tools for Phase 0 
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
-## Release 0: Download Sublime Text 2
+## Release 0: Download Sublime Text
 Download and follow instructions from [their site](http://www.sublimetext.com).
+You can choose to download either Sublime Text 2 or 3.
 
 After you download, create a symlink so you can open Sublime using `subl "filename"`
 
 Enter this command into your terminal:
 ```shell
-sudo ln -s /opt/SublimeText2/sublime_text /usr/local/bin/subl
+mkdir ~/bin && echo 'export "$HOME/bin:$PATH"' >> ~/.bash_profile' && ln -s /opt/SublimeText2/sublime_text ~/bin/subl
 ```
+*NOTE:* If you are using Ubuntu or Ubuntu-derived distribution, use `~/.bash_rc` instead of `~/.bash_profile`/
 
-test by typing subl . it should open all files in your current directory!
+Test it out by typing `subl .`. It should open all files in your current directory!
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
@@ -34,7 +36,7 @@ These instructions are optimized for use with Ubuntu. If you are using a differe
 
 ## Release 2: Get ready for install
 
-First step is to update our package manager apt-get. This will be done using this command:
+The first step is to update our package manager apt-get. This will be done using this command:
 
 ```shell
 sudo apt-get update
@@ -49,13 +51,11 @@ Now we are ready to install Rbenv
 
 ## Release 3: get Rbenv
 
-Rbenv will be our Ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
+Rbenv will be your Ruby version manager. Gems will get installed there and will use its copies of Ruby over the system Ruby. Yay!
 
-Digital ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install Ruby 2.0.0-p353 instead of 1.9.3-p392.
+Digital Ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions [here](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-with-rbenv--2). This will also handle installing nodejs. Make sure that you install Ruby 2.0.0-p353 instead of 1.9.3-p392.
 
-Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release
-
-[Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-with-rbenv--2)
+Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release.
 
 ## Release 4: Set up your Path
 First you need to clone this GitHub repository into your computer and install the files. Type each line separately:
@@ -65,7 +65,7 @@ git clone https://github.com/supertopher/dotfiles.git
 cd dotfiles
 ./install
 ```
-Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime. Note: this will replace your current bash profile.
+Installing these files will configure your bash profile, enable auto complete, and make RSpec display with color. Note: this will replace your current bash profile.
 
 Restart your terminal to have these changes take place.
 

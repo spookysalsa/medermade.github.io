@@ -17,9 +17,7 @@ Programmers do not always have pretty ways to interface or test their code. Most
 
 Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
-Unfortunately (or fortunately), the command line is very simple. There are set commands that do things. While you can hurt your computer if you type the wrong thing in the wrong directory, it's easy to learn how to do most things in the command line. But, it's not incredibly fun since it requires rote memorization and constant practice.
-
-Keep this in mind: the more you can do without a mouse, the more efficient you will become.
+Unfortunately (or fortunately), the command line is very simple. There are specific commands that will do certain things, so it's easy to learn how to do a lot via the command prompt which should save you some time using your mouse. That said, it's not incredibly fun since using it well requires rote memorization and constant practice.
 
 **Please note: this course suggests a lot of work: making flashcards etc. While you may chose to do that, you might also just prefer to make a cheatsheet for yourself and go through the tutorial in a couple of hours.**
 
