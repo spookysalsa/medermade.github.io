@@ -6,13 +6,13 @@ Please keep track of how much time you spend on the required sections of Phase 0
 
 When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 
-We do not expect you to peer-pair during week 1. Most of the challenges are difficult to pair on, so pairing can really start in week 2. That is why we expect you to pair less in Unit 1 than the other units. 
+We do not expect you to peer-pair during week 1. Most of the challenges are difficult to pair on, so pairing can really start in week 2. That is why we expect you to pair less in Unit 1 than the other units.
 
 ## This Week's Challenges
 
-#### 1. [The Command Line](1-command-line)
-#### 2. [Computer Setup](2-computer-setup)
-#### 3. [Think about time](3-think-about-time)
+#### 1. [Think about time](1-think-about-time)
+#### 2. [The Command Line](2-command-line)
+#### 3. [Computer Setup](3-computer-setup)
 #### 4. [GitHub Intro](4-github-intro)
 #### 5. [Forking and Cloning](5-fork-clone)
 #### 6. [Tracking Changes](6-tracking-changes)
