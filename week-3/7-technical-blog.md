@@ -21,7 +21,7 @@ Write a blog post that describes and compares arrays and hashes. Be sure to incl
 Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order. When you are satisfied, commit and push your changes to GitHub!
 
 ## Release 4: Promote
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohort mates using Twitter!
 
 Tweet your blog post using the hashtag **#DBCArrayHash**
 
