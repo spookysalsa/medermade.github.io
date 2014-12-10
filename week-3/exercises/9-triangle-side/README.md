@@ -27,7 +27,6 @@ valid_triangle?(5,3,4) # => true, the same right triangle
 valid_triangle?(10, 10, 100) #=> false, no such triangle exists
 ```
 
-You might want to read [this Wikipedia article about Pythagorean triples](http://en.wikipedia.org/wiki/Pythagorean_triple).
 
 ## Releases
 
