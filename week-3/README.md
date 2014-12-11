@@ -20,7 +20,7 @@ Before starting, please read Chris Pine's Introduction p. xi - xv.
 3. [Flow Control](3-flow-control)
 4. [Arrays, Iterators, and Hashes](4-arrays)
 5. [More Methods](5-more-methods)
-6. [Fix the Errors](6-fix-the-errors)
+6. [Analyze Errors](6-analyze-errors)
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 1.2](9-gps1-2) **Do not look at this until your guided pairing session!**
