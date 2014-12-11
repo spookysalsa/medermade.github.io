@@ -21,38 +21,39 @@ You should see something like this:
 
 ## Release 1: Encounter the Error
 
-Read the error closely. You will have questions to answer for each error. To get an understanding of how to read these messages, let's analyze the first error here.
+Read the error closely. You will have questions to answer for each error. To get an understanding of how to read these messages, The first message is analyzed here.
 
 ![error-img](../imgs/error-1.png)
 
 Answer the following questions for each error in your [my_solution.rb](my_solution.rb) file as a comment.
 
-1. What is the name of the file with the error? (You will only need to answer this once.)
+#### 1. What is the name of the file with the error?
+(You will only need to answer this once.)
   *The filename is the first part of the error message, boxed in red.*
 
    **Answer:** The error is occurring in the `my_solution.rb` file.
 
-2. What is the line number where the error occurs?
+#### 2. What is the line number where the error occurs?
   *The line number is always immediately after the file name, and is boxed in blue.*
 
   **Answer:** The error occurs on line 3.
 
-3. What is the type of error message?
+#### 3. What is the type of error message?
   *The type of error is directly after the line number, and is boxed in green.*
 
   **Answer:** This is a [syntax error](http://www.ruby-doc.org/core-2.1.5/SyntaxError.html).
 
-4. What additional information does the interpreter provide about this type of error?
+#### 4. What additional information does the interpreter provide about this type of error?
   *After the type of error, it will tell you what the issue was, in this error, it's boxed in yellow.*
 
   **Answer:** The interpreter says it did not expect an "=" sign, rather it expected an $end.
 
-5. Where is the error highlighted in the code?
+#### 5. Where is the error highlighted in the code?
   *The interpreter puts an arrow at the location the error occurs, in purple.*
 
   **Answer:** The interpreter did not expect an equals sign between "I'm going home" and cartmans_phrase
 
-6. Why did the interpreter give you this error?
+#### 6. Why did the interpreter give you this error?
   *You will need to use your knowledge of Ruby to figure this out, along with the error message*
 
   **Answer:** Ruby does not allow variable assignment this way. Variables have to be the first thing identified, and operations occur after the equals sign. This error would not occur if the code was:
