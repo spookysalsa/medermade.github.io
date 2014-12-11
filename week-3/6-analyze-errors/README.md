@@ -51,10 +51,10 @@ Answer the following questions for each error in your [my_solution.rb](my_soluti
 #### 5. Where is the error highlighted in the code?
   *The interpreter puts an arrow at the location the error occurs, in purple.*
 
-  **Answer:** The interpreter did not expect an equals sign between "I'm going home" and cartmans_phrase
+  **Answer:** The interpreter did not expect an equals sign between "I'm going home" and cartmans_phrase.
 
 #### 6. Why did the interpreter give you this error?
-  *You will need to use your knowledge of Ruby to figure this out, along with the error message*
+  *You will need to use your knowledge of Ruby to figure this out, along with the error message.*
 
   **Answer:** Ruby does not allow variable assignment this way. Variables have to be the first thing identified, and operations occur after the equals sign. This error would not occur if the code was:
 
