@@ -19,7 +19,7 @@ Knowing how to use your command line will be vital to your success as a programm
 
 Unfortunately (or fortunately), the command line is very simple. There are specific commands that will do certain things, so it's easy to learn how to do a lot via the command prompt which should save you some time using your mouse. That said, it's not incredibly fun since using it well requires rote memorization and constant practice.
 
-**Please note: this course suggests a lot of work: making flashcards etc. While you may chose to do that, you might also just prefer to make a cheatsheet for yourself and go through the tutorial in a couple of hours.**
+**Please note: this course suggests a lot of work: making flashcards etc. While you may choose to do that, you might also just prefer to make a cheat sheet for yourself and go through the tutorial in a couple of hours.**
 
 ## Releases
 
