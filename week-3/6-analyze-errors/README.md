@@ -1,6 +1,6 @@
 [Week 3 Home](../)
 
-# U1.W3: Error-driven challenge
+# U1.W3: Analyze Errors
 
 ## Learning Competencies
 - Run Ruby programs from the command line
