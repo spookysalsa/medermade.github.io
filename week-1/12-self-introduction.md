@@ -20,7 +20,7 @@ Once you've read them, or while reading through them, consider what you learned 
 
 ## Release 1: Intro Email
 
-Each cohort has it's own email list visible on the cohort webpage. Email that list with the subject "self introduction" or reply to the main thread you received. In your email, include your:
+Each cohort has its own email list visible on the cohort webpage. Email that list with the subject "self-introduction" or reply to the main thread you received. In your email, include your:
 
 - Name
 - Location
@@ -36,7 +36,7 @@ Send your email!
 **DOUBLE CHECK THAT YOU HAVE ISSUES ENABLED AS A FEATURE ON BOTH OF YOUR REPOSITORIES**
 
 ## Release 3: Review One more
-After you start seeing other student's self introductions, select another person's repository to view (they should have included a link in their email).
+After you start seeing other student's self-introductions, select another person's repository to view (they should have included a link in their email).
 
 Leave feedback for the second person using the "Issues" feature on GitHub. Use the ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
