@@ -57,7 +57,7 @@ Double check you can see your updated content on [USERNAME].github.io/blog/t1-gi
 
 ## Release 5: Promote
 
-Now that you are finished, tweet the URL of your blog to your phase 0 cohort mates using  **#DBCgit**. This will make finding all of your entries easy to find and review.
+Now that you are finished, tweet the URL of your blog to your phase 0 cohort mates. Write a brief description of your blog post to get peoples attention and include the hashtag **#DBCgit**. This will make finding all of your entries easy to find and review.
 
-Just put DBCgit in the search bar and voilà! All of the blog posts for you to see.
+Just put "DBCgit" in the search bar and voilà! All of the blog posts for you to see.
 
