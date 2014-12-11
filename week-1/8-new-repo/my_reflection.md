@@ -7,4 +7,18 @@
 * What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+A NEW REPO INSTRUCTIONS
+: Navigate to your Github repo, click on the "repositories tab", find and click on the "new" button near the top right.
+: At the top left, find your user name. To the left of it will be a window. Type "username.github.io", select the "public" button and check the "Initialize this repo...." box. Also click "Add a license:MIT License" button. Then click "Create repository" button.
+: On the following page navigate to settings and activate issues.
+: Then do the "I'm Awesome" Dance.
+
+OPEN SOURCE: Allowing the world to see the code for a program and letting them not only use it for free but also allowing them to edit it for their own purposes.
+
+MY OPEN SOURCE FEELINGS: It's scary that anyone can use a program as they want to for whatever they want to. It's still the wild west of today and anything could be used for good or bad.
+
+LICENSING: Seems like a way to adjust and assert limits to "Open Source" programing.
+
+CHALLENGES OF THIS CHALLENGE: I actually didn't have much of an issue. It seemed straight forward.
+
+NEW RESOURCES: No new resources..
