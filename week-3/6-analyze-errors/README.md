@@ -63,7 +63,7 @@ Answer the following questions for each error in your [my_solution.rb](my_soluti
   ```
 
 ## Release 1: Comment the error
-When you finish answering the questions, comment out the code with the error and run the file again. You can chose to fix the error if you desire.
+When you finish answering the questions, comment out the code with the error and run the file again. You can choose to fix the error if you desire.
 
 ## Release 2: Repeat
 Repeat release 0 and 1 for each error until there are no errors left to assess!
