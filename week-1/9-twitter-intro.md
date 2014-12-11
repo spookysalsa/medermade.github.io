@@ -56,7 +56,7 @@ The act itself of following another user on Twitter is pretty easy, but creating
 - [@pamelafox](https://twitter.com/@pamelafox) - Pamela Fox: front-end engineer at Coursera, leader of Girl Develop It San Francisco.
 - [@jasonlong](https://twitter.com/@jasonlong) - Jason Long: Designer at GitHub. He designed this: http://git-scm.com/ as well as various bits of GH UI you use everyday.
 - [@russolsen](https://twitter.com/@russolsen) - Russ Olsen: Ruby developer, author of Eloquent Ruby and Design Patterns in Ruby.
-- [@fogus](https://twitter.com/@fogus) - Michael Fogus: functional programmer, speaker, author of Joy of Clojure and Functional Javascript. I worked with him on Himera: http://himera.herokuapp.com/index.html
+- [@fogus](https://twitter.com/@fogus) - Michael Fogus: functional programmer, speaker, author of Joy of Clojure and Functional JavaScript. I worked with him on Himera: http://himera.herokuapp.com/index.html
 - [@rachelnabors](https://twitter.com/@rachelnabors) - Rachel Nabors: designer/front-end developer, CSS animation wizard.
 - [@davehoover](https://twitter.com/@davehoover) - co-founder Dev Bootcamp, author, apprenticeship dude
 
@@ -64,7 +64,7 @@ A few things to note about following people on Twitter. Instead of the act of �
 
 You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio, I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs, and Marketers who were based in SF and immediately felt more “in the know” about what was happening out there.
 
-I always recommend “following and unfollowing liberally.” This strategy allows you to collect lots of possible connections for you to learn from, and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life.
+I always recommend “following and unfollowing liberally.” This strategy allows you to collect lots of possible connections for you to learn from, and then unfollowing them at a moment's notice when you decide their tweets don’t add value to your life.
 
 This may sound extreme, but after a few months you’ll have curated a great list of friends, peers, and mentors that you have access to.
 
