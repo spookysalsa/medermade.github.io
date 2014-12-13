@@ -48,7 +48,7 @@ NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you
 
 ![static bottom](../imgs/devtools-staticbottom.png)
 
-- Now make the static div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
+- Now make the static div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and center it.
 ![top](../imgs/devtools-staticheader.png)
 
 - Move the relative div position to the right so it's like a right sidebar.
