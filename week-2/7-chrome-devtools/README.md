@@ -4,7 +4,6 @@
 
 ## Learning Competencies
 - Navigate and edit a website's HTML and CSS elements using the Chrome DevTools inspector
-- Explain what the DOM is and how it relates to CSS and HTML
 - Use Chrome DevTools to manipulate elements in the DOM
 
 ## Summary
@@ -16,21 +15,20 @@ Read/Watch both of the following resources to get some background on the DOM (Do
 - [Introduction to the DOM (Video)](https://www.youtube.com/watch?v=-0ZcldkGlt8)
 
 ## Release 1: Chrome's DevTools
-Use the following resources to acquaint yourself with Chrome's DevTools.
-- [Don't Fear the Browser: Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/the-basics/dont-fear-the-browser)
-- [Code School's DevTools course](http://discover-devtools.codeschool.com/) (Take the quizzes at the both chapters):
-  - Level 1: Getting Started & Basic DOM and Styles
-  - Level 2: Advanced DOM and Styles
+Use [Code School's DevTools course](http://discover-devtools.codeschool.com/) to acquaint yourself with Chrome's DevTools. Complete the challenges at the end of each. You only need to focus on the HTML and CSS chapters, when they move on to JavaScript, you are done.
+  - Chapter 1: "Elements" or "Getting Started and Basic DOM and Styles"
+  - Chapter 2: "Sources" or "Advanced DOM and Styles"
 
 ## Release 2: Practice
-First, find the tab that supports real time editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will save you time.
+In this challenge, you are going to use Dev Tools to get practice with CSS positioning. Positioning with CSS can be challenging, so it's nice to practice with Dev Tools. Take what you learned in the Chrome Dev Tools course especially the information about changing elements using CSS to manipulate the position of the elements. We've provided example screen shots to show what we are aiming for the page to look like, try to get your page to look the same.
 
 Load the [css-positioning.html](css-positioning.html) in your browser and open the Dev Tools inspector, and play around with the boxes. How can you select and change them?
 
-Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
+Then, complete each of the following exercises. You will need to take a screen shot of each to include in your [my_reflection.md](my_reflection.md) file.
 
-HINT:A lot of learning CSS is trial and error. That's OK. If you are afraid you got the boxes formatted properly but don't know how you did it, cross out any CSS you changed to see how it effects the boxes. Then, when you feel like you know how you did it, erase everything you did and do it again.
+NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you got the boxes formatted properly but don't know how you did it, cross out any CSS you changed to see how it effects the boxes. Then, when you feel like you know how you did it, erase everything you did and do it again.
 
+#### Exercises
 - Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! We picked three random colors.
 ![background-color](../imgs/devtools-colors.png)
 
@@ -42,7 +40,6 @@ HINT:A lot of learning CSS is trial and error. That's OK. If you are afraid you 
 
 - Move all the boxes into one column.
 ![column](../imgs/devtools-column.png)
-
 
 - Resize the boxes so they are 30% of their original size.
 ![30% column](../imgs/devtools-30column.png)
