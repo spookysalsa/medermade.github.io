@@ -32,19 +32,20 @@ NOTE: A lot of learning CSS is trial and error. That's OK. If you are afraid you
 - Change the background-color of the boxes. To do this, in the css section type "background-color". You'll then see a list of colors - select your favorite for each box! We picked three random colors.
 ![background-color](../imgs/devtools-colors.png)
 
-- Put the boxes in a row.
+- Put the boxes in a row. (You can have them line up at the top or bottom, it's up to you.)
 ![row](../imgs/devtools-row.png)
 
-- Make the boxes have equal distance between them.
+- Make the boxes have equal distance between them.<br>
 ![equal distance](../imgs/devtools-equal.png)
 
-- Move all the boxes into one column.
+- Move all the boxes into one column.<br>
 ![column](../imgs/devtools-column.png)
 
-- Resize the boxes so they are 30% of their original size.
+- Resize the boxes so they are 30% of their original size.<br>
 ![30% column](../imgs/devtools-30column.png)
 
 - Move the static div to the bottom and give it an absolute position (no matter what, it should always be at the bottom of the page). Make the footer 100% the width of the screen.
+
 ![static bottom](../imgs/devtools-staticbottom.png)
 
 - Now make the static div a header at the top of the page with a fixed position so it's always at the top of the browser window. Make the width 95% of the entire screen and centered
