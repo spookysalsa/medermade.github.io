@@ -10,6 +10,8 @@ You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http
 
 We are also requiring students to purchase the *Well-Grounded Rubyist* by David A. Black. Please see [this bonus challenge](11-BONUS-challenges/Well-Grounded-Rubyist.md) for a coupon code or you can purchase it on Amazon or other major booksellers (for potentially less than the coupon code). You will also want to invest in [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) by Sandi Metz, which will be used in week 6.
 
+Some challenges will have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+
 ## Challenges:
 You'll see an "exercises" directory. The exercises will be referenced by the challenges below. Please go through the challenges in order.
 
