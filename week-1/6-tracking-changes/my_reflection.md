@@ -28,4 +28,4 @@ Answer: 1- git status : to see modification to file.
 
 - What is a pull request? Why do you think they are preferred when working with teams?
 
-Answer: A pull requests is like asking someone to edit your paper before you turn in and commit to your final draft. It works well for teams given that someone can review changes, made to a given project, for funtionality and completeness.
+Answer: A pull requests is like asking someone to edit your paper before you turn in and commit to your final draft. It works well for teams given that someone can review changes, made to a given project, for funtionality and completeness..

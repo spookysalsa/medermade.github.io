@@ -20,4 +20,4 @@ ANSWER: Again, utilizing the ability to analyze my work.
 
 * What is your overall plan for Phase 0 time management?
 
-ANSWER: I want to figure out what allows me to work efficiently and what does not.
+ANSWER: I want to figure out what allows me to work efficiently and what does not..

@@ -6,7 +6,7 @@ What was the most challenging for you in going through this material?
 Were you able to successfully use all of the commands?
 Can you remember what each of the following does of the top of your head? Write what each does.
 
-Answer: The most challenging part of this was setting up the symlink. I still don't have it working properly. But I'll go to office hours and ask for help.
+Answer:  The most challenging part of this was setting up the symlink. I still don't have it working properly. But I'll go to office hours and ask for help.
 
 
 

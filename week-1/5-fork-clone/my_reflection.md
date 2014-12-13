@@ -27,4 +27,4 @@ ANSWER: I need practice with pull requests. Not totally familiar with them. Ever
 7. type in git clone and the url you copied to clipboard.
 8. This will have created a copy of my github-devbootcamp copy to my computer and the remotes(url's) used to retrieve and update from my computer to my github account.
 
-I didn't have too many issues if any at all setting this up. I had done some research before I attempted it. I was confused by the difference of cloning versus git remote add. But I figured it out. It was an "ah-ha!!" moment.
+I didn't have too many issues if any at all setting this up. I had done some research before I attempted it. I was confused by the difference of cloning versus git remote add. But I figured it out. It was an "ah-ha!!" moment..
