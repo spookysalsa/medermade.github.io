@@ -10,7 +10,7 @@
 ## Summary
 In this challenge, you will be transforming our generic blog template into an actual template for you to use for each blog post moving forward.
 
-This is a mandatory pairing challenge, which means you will need to work on it with a partner. Remember to time box!
+This is a mandatory pairing challenge, which means you will need to work on it with a partner.  This challenge should only take between 60 and 90 minutes so remember to time box!
 
 ## Releases
 
