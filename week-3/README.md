@@ -1,8 +1,6 @@
 # Week 3: Introduction to Ruby
 
-Week 3's material is not ready yet!
-
-We will release it with changes at least by the Friday before the week begins.
+Week 3's material is not ready yet! It will be released with changes on Friday, Jan. 2.
 
 <!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
