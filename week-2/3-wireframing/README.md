@@ -15,7 +15,7 @@ In this challenge, you'll wireframe how you want your site to look.
 
 While this sounds like it's only a personal challenge, you can pair on building a wireframe, and both use the same wireframe for your respective sites. Or you can both build different wireframes together and discuss the pros and cons of each wireframe. It would be useful to complete the reading prior to pairing.
 
-It's easy to go down a rabbit hole while wireframing, so keep it simple and timebox yourself. A Wireframe doesn't have to be perfectly neat; it can be as detailed as you want. Try to timebox the time you spend wireframing to one hour maximum.
+It's easy to go down a rabbit hole while wireframing, so keep it simple and timebox yourself. A Wireframe doesn't have to be perfectly neat. Try to timebox the time you spend wireframing to one hour maximum.
 
 ## Releases
 
