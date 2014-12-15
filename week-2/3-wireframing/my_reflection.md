@@ -4,8 +4,10 @@
 Include images of your wireframe (inline, using markdown) below:
 
 Blog Template Wireframe:
+![wireframe-blog-index]( ../3-wireframing/wireframe-blog-index.png)
 
 Index Wireframe:
+![wireframe-index]( ../3-wireframe/wireframe-index.png)
 
 ***
 
@@ -41,5 +43,5 @@ Answer: I enjoyed making the frames, using markdown language to create a link an
 
 Answer: The initial reading on wireframing. It was informative but it was a bit long for our initial model.
 
-<!-- Add your reflection here. Remove the comment markers -->
+
 
