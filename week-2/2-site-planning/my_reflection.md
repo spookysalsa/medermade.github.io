@@ -38,7 +38,7 @@ ANSWER: I want them to have access to my contact info at every step; However, I 
 
 Your site map:
 
-![dbcsitemap](~/desktop/dbc\ stuff/phase-0-unit-1/week-2/imgs/dbcsitemap.pdf)
+![dbcsitemap]( ../imgs/dbcsitemap.png)
 
 - What did you learn about design and user experience?
 
