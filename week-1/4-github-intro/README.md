@@ -31,13 +31,13 @@ Challenges will be contained in directories or individual files. You can determi
 Don't overthink the web version of GitHub too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
-By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the the most ideal version of your code and always working/running properly.
+By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the most ideal version of your code and always working/running properly.
 
 In cases where people want to make changes or add features, they will make a new branch off of the master (using `git co -b branch-name`). This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
 
 When you work on teams, it's always a good idea to have someone else review your code before it's merged into `master`. This is done through a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
 
-When using your command line, you can see your local branches (the branches on your local comptuer) by typing:
+When using your command line, you can see your local branches (the branches on your local computer) by typing:
 
 `git branch`
 

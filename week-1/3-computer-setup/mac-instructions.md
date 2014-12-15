@@ -98,6 +98,8 @@ Now, you need to set the default Ruby in your computer to the Ruby we just insta
 
 Type: ``` rbenv global 2.0.0-p481```
 
+**Restart your terminal** 
+
 NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
 
 ## Release 10: Install Git
