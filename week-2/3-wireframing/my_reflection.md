@@ -7,7 +7,7 @@ Blog Template Wireframe:
 ![wireframe-blog-index]( ../3-wireframing/wireframe-blog-index.png)
 
 Index Wireframe:
-![wireframe-index]( ../3-wireframe/wireframe-index.png)
+![wireframe-index]( ../3-wireframing/wireframe-index.png)
 
 ***
 
