@@ -1,3 +1,144 @@
-html {
+html, body {
   background-color: white;
+  color: navy;
+}
+#h-address{
+  margin-top: 15px
+}
+span{
+
+  font-size: 20px;
+  font-weight: bold;
+}
+body p:nth-child(1){
+  font-size: 12px;
+  font-weight: bold;
+}
+body p:nth-child(2){
+  font-size: 12px;
+  font-weight: bold;
+}
+body p:nth-child(3){
+font-size: 12px;
+  font-weight: bold;
+}
+body p:nth-child(4){
+  font-size: 14px;
+  font-weight: bold;
+}
+body p:nth-child(5){
+  font-size: 14px;
+  font-weight: bold;
+}
+#firstline{
+  text-align: center;
+}
+#h-address p {
+    margin-top: -10px;
+    text-align: center;
+}
+
+
+a:visited{
+  color: red;
+}
+a:link{
+  color: purple;
+}
+p{
+  color: 000080;
+}
+#left-column{
+  padding-left: 80px;
+  position: relative;
+  width: 400px;
+  height: 500px;
+}
+#right-column{
+  padding-right: 80px;
+  top: -515px;
+  float: right;
+  position: relative;
+  width: 400px;
+  height: 500px;
+}
+li {
+  margin-bottom: 20px;
+}
+.cl-font{
+  font-size: 11px;
+
+}
+#left-column p{
+  margin-top: 1px;
+}
+#right-column p{
+  margin-top: 1px;
+}
+#hl-1 {
+  position: relative;
+  background: grey;
+  height: 1px;
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#hl-2 {
+ position: relative;
+  background: grey;
+  height: 1px;
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#hl-3 {
+ position: relative;
+  background: grey;
+  height: 1px;
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#hl-4 {
+  position: relative;
+  background: grey;
+  height: 1px;
+  width: 98%;
+  margin-right: auto;
+  margin-left: auto;
+}
+#geico{
+padding-bottom: 10px;
+  text-align: center;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+left:220px;
+top:15px;
+}
+#geico p{
+
+  margin-top: -8px;
+}
+#comment p{
+width: 900px;
+  font-size: 12px;
+  font-weight: normal;
+}
+#comment{
+  left: 200px;
+  position: relative;
+}
+#copyright p{
+  font-size: 12px;
+  font-weight: normal;
+}
+#last {
+  font-weight: bold;
+  font-size: 12px
+}
+#footer{
+  padding-top: 10px;
+  left: 15px;
+  position: relative;
 }
