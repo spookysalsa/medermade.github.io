@@ -2,7 +2,7 @@
 
 Include images of your maintenance schedule (inline, using markdown) below:
 
-![update](/imgs/site-update-cal.png )
+![update](./imgs/site-update-cal.png )
 
 Schedule:
 
