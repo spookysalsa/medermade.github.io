@@ -2,6 +2,8 @@
 
 Include images of your maintenance schedule (inline, using markdown) below:
 
+![site-update-cal](/imgs/site-update-cal.png)
+
 Schedule:
 
 -Mondays: Update my site with any new info given by dbc. ie. New blog entries
