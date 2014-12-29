@@ -3,7 +3,7 @@
 My Wireframe URL: [wireframe](https://github.com/edisonocean/phase-0-unit-1/blob/master/week-2/3-wireframing/wireframe-index.png)
 
 My Website url:
-[my website](http://www.edisonocean.github.io)
+![my website](https://www.edisonocean.github.io)
 
 Discuss the following:
 
