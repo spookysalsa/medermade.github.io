@@ -18,7 +18,7 @@ ANSWER: I went ahead with the w3schools validating website. It looks like I pass
 
 ANSWER: Since there were no errors, all I got was a link to the validation page
 
-![validation]url(http://validator.w3.org/check?uri=http%3A%2F%2Fedisonocean.github.io%2F )
+[validation]url(http://validator.w3.org/check?uri=http%3A%2F%2Fedisonocean.github.io%2F )
 
 3. How do you plan to incorporate the feedback you received?
 
