@@ -2,7 +2,7 @@
 
 Include images of your maintenance schedule (inline, using markdown) below:
 
-![site-update-cal](/site-update-cal.png )
+![site-update-cal](imgs/site-update-cal.png )
 
 Schedule:
 
@@ -16,7 +16,8 @@ ANSWER: I went ahead with the w3schools validating website. It looks like I pass
 
 2. Did you receive any particularly helpful feedback? Why was it helpful?
 
-ANSWER: Since there were no errors, all I got was a link to the validation page ANSWER:
+ANSWER: Since there were no errors, all I got was a link to the validation page
+
 ![validation page](http://validator.w3.org/check?uri=http%3A%2F%2Fedisonocean.github.io%2F)
 
 3. How do you plan to incorporate the feedback you received?
