@@ -2,7 +2,7 @@
 
 Include images of your maintenance schedule (inline, using markdown) below:
 
-![site-update-cal](/Users/edisonoceanreef/Desktop/dbc-stuff/phase-0-unit-1/week-2/imgs/site-update-cal.png )
+![site-update-cal](site-update-cal.png )
 
 Schedule:
 
