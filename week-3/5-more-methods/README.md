@@ -24,6 +24,7 @@ Complete the following challenges. Be sure to take advantage of pairing!
 
 - [Pretty Triangle](../exercises/19-pretty-triangle)
 - [Factorial](../exercises/20-factorial)
+- [Add it up](../exercises/21-add-it-up)
 
 ## Release 2: Reflect
 In your [my_reflection.md](my_reflection.md) use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) to reflect on your learning. Remember, reflections should be directed toward an audience, but they don't need to be lengthy. A short paragraph will suffice. Try to keep your reflection writing to 10-15 minutes.
