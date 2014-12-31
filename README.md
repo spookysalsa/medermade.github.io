@@ -6,7 +6,7 @@ Each week's curriculum will be posted the Friday before the week starts.
 
 ### [Week 1: Git, GitHub, and the Command Line](week-1/README.md)
 ### [Week 2: HTML and CSS](week-2/README.md)
-<!-- ### [Week 3: Introduction to Ruby](week-3/README.md) -->
+### [Week 3: Introduction to Ruby](week-3/README.md)
 
 ## Required Books
 You will need to get four books for Phase 0 (and Dev Bootcamp). There are two others that may be useful to you. Some are available for free online, and others will need to be purchased. Please make it a priority to get these books early.
