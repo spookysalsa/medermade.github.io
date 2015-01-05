@@ -1,3 +1,11 @@
+def do_something(year, model, make)
+  puts year
+  puts model
+  puts make
+end
+
+do_something('sixty_six', 'Mustang', 'Ford')
+
 require_relative "my_solution"
 
 describe 'do_something' do
