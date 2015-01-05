@@ -1,8 +1,8 @@
 # Week 3: Introduction to Ruby
 
-Week 3's material is not ready yet! It will be released with changes on Friday, Jan. 2.
+<!-- Week 3's material is not ready yet! It will be released with changes on Friday, Jan. 2. -->
 
-<!-- It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
+It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) for fetching changes.
 
 You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing the challenges we assign.
 
@@ -49,4 +49,3 @@ Expectation | Times per Unit | Times per Week
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | 4 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 6 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
- -->
