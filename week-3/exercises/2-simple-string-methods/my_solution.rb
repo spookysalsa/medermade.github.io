@@ -1,11 +1,15 @@
 # U1.W3: Simple String Methods
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 
 # Your Solution Below
 
+old_string = 'Ruby is cool'
+old_string = 'LOOC SI YBUR'
+new_string = old_string
+old_string = 'Ruby is cool'
 
 
 

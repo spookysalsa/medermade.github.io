@@ -1,12 +1,18 @@
 # U1.W3: Local Variables
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 
 # Your Solution Below
 
 
-
+num1 = 73
+num2 = 50
+sum = 123
+difference = 23
+quotient = 1.46
+product = 3650
+modulus = 23
 
 
 

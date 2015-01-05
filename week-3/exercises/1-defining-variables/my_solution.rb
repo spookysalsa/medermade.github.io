@@ -1,9 +1,16 @@
 # U1.W3: Defining Variables
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 
 # Your Solution Below
+ first_name = 'Edison'
+
+ last_name = 'Reef'
+
+ age = 40
+
+
 
 
 
