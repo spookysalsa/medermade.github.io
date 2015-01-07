@@ -1,3 +1,14 @@
+def valid_triangle?(a, b, c)
+if a+b <= c || a+c <= b || b+c <= a
+  return false
+elsif a <= 0 || b <= 0 || c <= 0
+  return false
+else
+  return true
+end
+end
+
+
 require_relative "my_solution"
 
 describe 'valid_triangle?' do
