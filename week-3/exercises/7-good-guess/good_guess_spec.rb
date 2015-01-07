@@ -1,3 +1,13 @@
+def good_guess?(num)
+
+     if num == 42
+      puts true
+    else
+      puts false
+    end
+
+end
+
 require_relative "my_solution"
 
 describe 'good_guess?' do
