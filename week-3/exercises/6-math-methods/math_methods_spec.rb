@@ -1,3 +1,22 @@
+def add(num_1, num_2)
+ num_1.to_i + num_2.to_i
+end
+
+
+def subtract(num_1, num_2)
+ num_1.to_i - num_2.to_i
+end
+
+def multiply(num_1, num_2)
+num_1.to_i * num_2.to_i
+end
+
+def divide(num_1, num_2)
+ num_1.to_i / num_2.to_f
+end
+
+
+
 require_relative "my_solution"
 
 describe "add" do
