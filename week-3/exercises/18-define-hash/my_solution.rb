@@ -6,9 +6,11 @@
 # Your Solution Below
 
 # my_info is empty to start.  Edit this!
-my_info = {}
+my_info = {
+  first_name: 'Edison', last_name: 'Reef', hometown: 'San Salvador', age: 40
+}
 
-
+puts 'My name is #{my_info[:first_name]} {my_info[:last_name]}, I am from {my_info[:hometown]} and I am {my_info[:age]}, HOLY CRAP!!!!'
 
 
 
