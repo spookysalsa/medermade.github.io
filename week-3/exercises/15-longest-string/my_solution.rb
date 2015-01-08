@@ -13,5 +13,4 @@
 
 # Your Solution Below
 def longest_string(list_of_words)
-  # Your code goes here!
-end
+list_of_words.max_by{|x| x.length}end
