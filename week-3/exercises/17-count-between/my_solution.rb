@@ -1,6 +1,6 @@
 # U1.W3: Count Between
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself ].
 
 # count_between is a method with three arguments:
 #   1. An array of integers
@@ -15,5 +15,7 @@
 # Your Solution Below
 
 def count_between(list_of_integers, lower_bound, upper_bound)
-  # Your code goes here!
+  return 0 if lower_bound > upper_bound
+  list_of_integers.count{|v| (lower_bound..upper_bound).include?(v)}
+
 end
