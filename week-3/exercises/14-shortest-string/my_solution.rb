@@ -12,5 +12,5 @@
 
 #Your Solution Below
 def shortest_string(list_of_words)
-  # Your code goes here!
+list_of_words.min_by{|x| x.length}
 end
