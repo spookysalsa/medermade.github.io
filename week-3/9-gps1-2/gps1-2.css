@@ -1,1 +1,78 @@
 /* include your css here */
+ #background{
+        background-color: gray;
+        top:0px;
+        height: 885px;
+    }
+
+
+     #header {
+         float:center;
+         width: 1422px;
+         height: 75px;
+         position: absolute;
+         background-color: red;
+         text-align: center;
+     }
+     #names {
+         float:center;
+         width: 200px;
+         height: 75px;
+         position: absolute;
+         background-color: red;
+         text-align: left;
+         right: 10px;
+         font-size: 20px;
+
+         }
+
+    .photo{
+
+        position: absolute;
+        right: 11px;
+        top: 85px;
+
+         }
+
+    #section1 {
+        top: 76px;
+         text-align: left;
+         width: 711px;
+         height: 200px;
+         position: relative;
+         float: left;
+         background-color: purple;
+         font-size: 16px;
+
+         }
+
+    #section2 {
+        top: 286px;
+         text-align: left;
+         width: 710px;
+         height: 200px;
+         position: absolute;
+         left: 9px;
+         background-color: blue;
+         font-size: 16px;
+         }
+
+    .compare-1{
+        position: absolute;
+        top: 488px;
+        height: 200px;
+        width: 1422px;
+        background-color: green;
+        font-size: 16px;
+    }
+    #lastp{
+
+        position: absolute;
+       background-color: yellow;
+       height: 200px;
+       width: 1422px;
+       top: 690px;
+       font-size: 16px;
+
+    }
+
