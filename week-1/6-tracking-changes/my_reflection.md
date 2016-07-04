@@ -2,7 +2,9 @@
 
 - How does tracking and adding changes make developer's lives easier?
 
-Answer: Tracking and adding changes helps a developer work or edit on previously recorded points of any given project.
+Answer: Adding changes to an open source project is imperative to creating healthier code.
+        Tracking changes allows a developer to review the state of a script at it's infancy
+        in order to fix or alter the code.
 
 - What is a commit?
 
