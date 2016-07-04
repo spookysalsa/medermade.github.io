@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 1: Introduction
 
 Welcome to Phase 0! Below you will find links to the curriculum for each week. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
@@ -32,3 +33,8 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click.
+=======
+# medermade.github.io
+Portfolio Website
+end
+>>>>>>> f3472c4dd3db4f46c75af25cf921c222a4bedd3b
